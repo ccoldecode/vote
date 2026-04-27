@@ -8,7 +8,7 @@ from io import BytesIO
 
 # --- 配置区 ---
 JSON_PATH = "review_annotations.json"
-IMAGE_FOLDER = "concat_review"
+IMAGE_FOLDER = ""
 DB_PATH = "test_results.db"
 
 # 属性翻译字典 (保持不变，此处省略部分以节省篇幅，建议保留你原有的完整字典)
