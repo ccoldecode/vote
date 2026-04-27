@@ -1,0 +1,4809 @@
+[
+  {
+    "entry_id": "fn_ddb16bb1-c286-4ef8-86ea-d23e4be0e03b_Sponges_obj0",
+    "group": "Sponges",
+    "concept": "sponge",
+    "bbox": [
+      350,
+      730,
+      382,
+      237
+    ],
+    "avg_score": 1.0,
+    "patch_file": "fn_ddb16bb1-c286-4ef8-86ea-d23e4be0e03b_Sponges_obj0.jpg",
+    "image_file": "ddb16bb1-c286-4ef8-86ea-d23e4be0e03b.jpg",
+    "attributes": {
+      "sponge_growth_type": {
+        "annotated_value": "encrusting sponge",
+        "gpt4o_score": 1
+      },
+      "surface_channel_diagnosis": {
+        "annotated_value": "encrusting surface with fine pores",
+        "gpt4o_score": 1
+      },
+      "overall_body_form": {
+        "annotated_value": "encrusting",
+        "gpt4o_score": 1
+      },
+      "attachment_extent": {
+        "annotated_value": "widely encrusting",
+        "gpt4o_score": 1
+      },
+      "osculum_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 1
+      },
+      "osculum_form": {
+        "annotated_value": "not applicable",
+        "gpt4o_score": 1
+      },
+      "branch_tube_organization": {
+        "annotated_value": "single massive body",
+        "gpt4o_score": 1
+      },
+      "relief_thickness": {
+        "annotated_value": "low",
+        "gpt4o_score": 1
+      },
+      "dominant_color": {
+        "annotated_value": "gray",
+        "gpt4o_score": 1
+      },
+      "surface_porosity": {
+        "annotated_value": "high",
+        "gpt4o_score": 1
+      },
+      "surface_texture": {
+        "annotated_value": "fibrous-looking",
+        "gpt4o_score": 1
+      },
+      "epibiont_cover": {
+        "annotated_value": "none",
+        "gpt4o_score": 1
+      },
+      "substrate_relation": {
+        "annotated_value": "['attached to rock']",
+        "gpt4o_score": 1
+      },
+      "occlusion": {
+        "annotated_value": "none",
+        "gpt4o_score": 1
+      }
+    },
+    "concat_file": "001_Sponges_1.0_sponge.jpg"
+  },
+  {
+    "entry_id": "fn_6c9209d1-61b3-4eb7-a49e-a903dd131cd5_Echinoderms_obj0",
+    "group": "Echinoderms",
+    "concept": "Echinocrepis rostrata",
+    "bbox": [
+      1825,
+      566,
+      72,
+      74
+    ],
+    "avg_score": 2.5,
+    "patch_file": "fn_6c9209d1-61b3-4eb7-a49e-a903dd131cd5_Echinoderms_obj0.jpg",
+    "image_file": "6c9209d1-61b3-4eb7-a49e-a903dd131cd5.jpg",
+    "attributes": {
+      "echinoderm_group": {
+        "annotated_value": "sea star",
+        "gpt4o_score": 1
+      },
+      "body_symmetry": {
+        "annotated_value": "pentaradial",
+        "gpt4o_score": 1
+      },
+      "overall_body_form": {
+        "annotated_value": "star-like",
+        "gpt4o_score": 1
+      },
+      "arm_presence_form": {
+        "annotated_value": "broad arms",
+        "gpt4o_score": 1
+      },
+      "arm_count_coarse": {
+        "annotated_value": "5",
+        "gpt4o_score": 1
+      },
+      "central_disc_prominence": {
+        "annotated_value": "moderate",
+        "gpt4o_score": 1
+      },
+      "spine_development": {
+        "annotated_value": "none obvious",
+        "gpt4o_score": 1
+      },
+      "tube_feet_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 10
+      },
+      "body_inflation": {
+        "annotated_value": "flattened",
+        "gpt4o_score": 1
+      },
+      "surface_texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 1
+      },
+      "dominant_color": {
+        "annotated_value": "brown",
+        "gpt4o_score": 1
+      },
+      "substrate_attachment": {
+        "annotated_value": "resting on substrate",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "002_Echinoderms_2.5_Echinocrepis_rostrata.jpg"
+  },
+  {
+    "entry_id": "fn_94b5a371-3b3c-4b53-89fd-8a14a197756c_Crustaceans_obj0",
+    "group": "Crustaceans",
+    "concept": "Stenocionops spinimanus",
+    "bbox": [
+      1444,
+      1072,
+      195,
+      114
+    ],
+    "avg_score": 4.0,
+    "patch_file": "fn_94b5a371-3b3c-4b53-89fd-8a14a197756c_Crustaceans_obj0.jpg",
+    "image_file": "94b5a371-3b3c-4b53-89fd-8a14a197756c.jpg",
+    "attributes": {
+      "crustacean_group": {
+        "annotated_value": "shrimp",
+        "gpt4o_score": 4
+      },
+      "body_plan": {
+        "annotated_value": "elongate shrimp-like",
+        "gpt4o_score": 4
+      },
+      "carapace_shape": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 4
+      },
+      "rostrum_prominence": {
+        "annotated_value": "short",
+        "gpt4o_score": 4
+      },
+      "cheliped_development": {
+        "annotated_value": "none obvious",
+        "gpt4o_score": 4
+      },
+      "leg_form": {
+        "annotated_value": "swimming paddles",
+        "gpt4o_score": 4
+      },
+      "abdomen_exposure": {
+        "annotated_value": "fully exposed",
+        "gpt4o_score": 4
+      },
+      "body_segmentation_visibility": {
+        "annotated_value": "clear",
+        "gpt4o_score": 4
+      },
+      "antenna_prominence": {
+        "annotated_value": "short",
+        "gpt4o_score": 4
+      },
+      "surface_armature": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 4
+      },
+      "dominant_color": {
+        "annotated_value": "translucent",
+        "gpt4o_score": 4
+      },
+      "shell_occupation": {
+        "annotated_value": "none",
+        "gpt4o_score": 4
+      },
+      "posture": {
+        "annotated_value": "resting",
+        "gpt4o_score": 4
+      }
+    },
+    "concat_file": "003_Crustaceans_4.0_Stenocionops_spinimanus.jpg"
+  },
+  {
+    "entry_id": "fn_769c7d5e-0331-4f65-a3d2-2db3d29bb89f_Non_cephalopod_Mollusks_obj0",
+    "group": "Non-cephalopod Mollusks",
+    "concept": "Buccinidae",
+    "bbox": [
+      0,
+      294,
+      127,
+      186
+    ],
+    "avg_score": 4.91,
+    "patch_file": "fn_769c7d5e-0331-4f65-a3d2-2db3d29bb89f_Non_cephalopod_Mollusks_obj0.jpg",
+    "image_file": "769c7d5e-0331-4f65-a3d2-2db3d29bb89f.jpg",
+    "attributes": {
+      "mollusk_group": {
+        "annotated_value": "gastropod",
+        "gpt4o_score": 10
+      },
+      "shell_presence": {
+        "annotated_value": "no visible shell",
+        "gpt4o_score": 1
+      },
+      "shell_configuration": {
+        "annotated_value": "not applicable",
+        "gpt4o_score": 1
+      },
+      "shell_coiling_direction": {
+        "annotated_value": "not applicable",
+        "gpt4o_score": 1
+      },
+      "spire_height": {
+        "annotated_value": "not applicable",
+        "gpt4o_score": 1
+      },
+      "aperture_shape": {
+        "annotated_value": "not applicable",
+        "gpt4o_score": 1
+      },
+      "operculum_visibility": {
+        "annotated_value": "not applicable",
+        "gpt4o_score": 1
+      },
+      "body_extension_degree": {
+        "annotated_value": "retracted",
+        "gpt4o_score": 10
+      },
+      "body_shell_color": {
+        "annotated_value": "brown",
+        "gpt4o_score": 9
+      },
+      "surface_gloss": {
+        "annotated_value": "glossy",
+        "gpt4o_score": 9
+      },
+      "attachment_mode": {
+        "annotated_value": "resting on substrate",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "004_Non-cephalopod Mollusks_4.9_Buccinidae.jpg"
+  },
+  {
+    "entry_id": "fn_83e6458a-4fdd-44a5-90b2-98c565c975e5_Sponges_obj0",
+    "group": "Sponges",
+    "concept": "Asbestopluma",
+    "bbox": [
+      419,
+      83,
+      54,
+      133
+    ],
+    "avg_score": 4.93,
+    "patch_file": "fn_83e6458a-4fdd-44a5-90b2-98c565c975e5_Sponges_obj0.jpg",
+    "image_file": "83e6458a-4fdd-44a5-90b2-98c565c975e5.jpg",
+    "attributes": {
+      "sponge_growth_type": {
+        "annotated_value": "encrusting sponge",
+        "gpt4o_score": 2
+      },
+      "surface_channel_diagnosis": {
+        "annotated_value": "encrusting with small channels",
+        "gpt4o_score": 2
+      },
+      "overall_body_form": {
+        "annotated_value": "encrusting",
+        "gpt4o_score": 2
+      },
+      "attachment_extent": {
+        "annotated_value": "locally attached",
+        "gpt4o_score": 3
+      },
+      "osculum_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 8
+      },
+      "osculum_form": {
+        "annotated_value": "not applicable",
+        "gpt4o_score": 8
+      },
+      "branch_tube_organization": {
+        "annotated_value": "single massive body",
+        "gpt4o_score": 2
+      },
+      "relief_thickness": {
+        "annotated_value": "low",
+        "gpt4o_score": 2
+      },
+      "dominant_color": {
+        "annotated_value": "pink",
+        "gpt4o_score": 10
+      },
+      "surface_porosity": {
+        "annotated_value": "medium",
+        "gpt4o_score": 2
+      },
+      "surface_texture": {
+        "annotated_value": "porous",
+        "gpt4o_score": 2
+      },
+      "epibiont_cover": {
+        "annotated_value": "light",
+        "gpt4o_score": 8
+      },
+      "substrate_relation": {
+        "annotated_value": "['attached to rock']",
+        "gpt4o_score": 8
+      },
+      "occlusion": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "005_Sponges_4.9_Asbestopluma.jpg"
+  },
+  {
+    "entry_id": "fn_8e4981bc-b544-4c47-8722-3c2336b248dc_Echinoderms_obj1",
+    "group": "Echinoderms",
+    "concept": "Ophiuroidea",
+    "bbox": [
+      1157,
+      4,
+      242,
+      127
+    ],
+    "avg_score": 5.33,
+    "patch_file": "fn_8e4981bc-b544-4c47-8722-3c2336b248dc_Echinoderms_obj1.jpg",
+    "image_file": "8e4981bc-b544-4c47-8722-3c2336b248dc.jpg",
+    "attributes": {
+      "echinoderm_group": {
+        "annotated_value": "brittle star",
+        "gpt4o_score": 6
+      },
+      "body_symmetry": {
+        "annotated_value": "pentaradial",
+        "gpt4o_score": 6
+      },
+      "overall_body_form": {
+        "annotated_value": "star-like",
+        "gpt4o_score": 5
+      },
+      "arm_presence_form": {
+        "annotated_value": "slender arms",
+        "gpt4o_score": 5
+      },
+      "arm_count_coarse": {
+        "annotated_value": "5",
+        "gpt4o_score": 4
+      },
+      "central_disc_prominence": {
+        "annotated_value": "weak",
+        "gpt4o_score": 4
+      },
+      "spine_development": {
+        "annotated_value": "none obvious",
+        "gpt4o_score": 5
+      },
+      "tube_feet_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 6
+      },
+      "body_inflation": {
+        "annotated_value": "flattened",
+        "gpt4o_score": 5
+      },
+      "surface_texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 5
+      },
+      "dominant_color": {
+        "annotated_value": "gray",
+        "gpt4o_score": 6
+      },
+      "substrate_attachment": {
+        "annotated_value": "resting on substrate",
+        "gpt4o_score": 7
+      }
+    },
+    "concat_file": "006_Echinoderms_5.3_Ophiuroidea.jpg"
+  },
+  {
+    "entry_id": "fn_d99fc078-38a9-4a05-b811-76ed6541812a_Sponges_obj0",
+    "group": "Sponges",
+    "concept": "Bathydorus laevis pseudospinosus",
+    "bbox": [
+      1693,
+      453,
+      158,
+      215
+    ],
+    "avg_score": 5.36,
+    "patch_file": "fn_d99fc078-38a9-4a05-b811-76ed6541812a_Sponges_obj0.jpg",
+    "image_file": "d99fc078-38a9-4a05-b811-76ed6541812a.jpg",
+    "attributes": {
+      "sponge_growth_type": {
+        "annotated_value": "encrusting sponge",
+        "gpt4o_score": 3
+      },
+      "surface_channel_diagnosis": {
+        "annotated_value": "encrusting surface with small openings",
+        "gpt4o_score": 3
+      },
+      "overall_body_form": {
+        "annotated_value": "encrusting",
+        "gpt4o_score": 3
+      },
+      "attachment_extent": {
+        "annotated_value": "widely encrusting",
+        "gpt4o_score": 3
+      },
+      "osculum_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 8
+      },
+      "osculum_form": {
+        "annotated_value": "not applicable",
+        "gpt4o_score": 8
+      },
+      "branch_tube_organization": {
+        "annotated_value": "single massive body",
+        "gpt4o_score": 3
+      },
+      "relief_thickness": {
+        "annotated_value": "low",
+        "gpt4o_score": 3
+      },
+      "dominant_color": {
+        "annotated_value": "white",
+        "gpt4o_score": 9
+      },
+      "surface_porosity": {
+        "annotated_value": "medium",
+        "gpt4o_score": 6
+      },
+      "surface_texture": {
+        "annotated_value": "porous",
+        "gpt4o_score": 6
+      },
+      "epibiont_cover": {
+        "annotated_value": "none",
+        "gpt4o_score": 8
+      },
+      "substrate_relation": {
+        "annotated_value": "['attached to rock']",
+        "gpt4o_score": 3
+      },
+      "occlusion": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      }
+    },
+    "concat_file": "007_Sponges_5.4_Bathydorus_laevis_pseudospinosus.jpg"
+  },
+  {
+    "entry_id": "fn_2f87c570-4853-45be-98a4-93d70193e452_Echinoderms_obj1",
+    "group": "Echinoderms",
+    "concept": "Paelopatides confundens",
+    "bbox": [
+      1142,
+      632,
+      239,
+      149
+    ],
+    "avg_score": 6.0,
+    "patch_file": "fn_2f87c570-4853-45be-98a4-93d70193e452_Echinoderms_obj1.jpg",
+    "image_file": "2f87c570-4853-45be-98a4-93d70193e452.jpg",
+    "attributes": {
+      "echinoderm_group": {
+        "annotated_value": "star-like",
+        "gpt4o_score": 4
+      },
+      "body_symmetry": {
+        "annotated_value": "pentaradial",
+        "gpt4o_score": 3
+      },
+      "overall_body_form": {
+        "annotated_value": "star-like",
+        "gpt4o_score": 3
+      },
+      "arm_presence_form": {
+        "annotated_value": "broad arms",
+        "gpt4o_score": 3
+      },
+      "arm_count_coarse": {
+        "annotated_value": "5",
+        "gpt4o_score": 3
+      },
+      "central_disc_prominence": {
+        "annotated_value": "strong",
+        "gpt4o_score": 3
+      },
+      "spine_development": {
+        "annotated_value": "none obvious",
+        "gpt4o_score": 8
+      },
+      "tube_feet_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 9
+      },
+      "body_inflation": {
+        "annotated_value": "flattened",
+        "gpt4o_score": 9
+      },
+      "surface_texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 9
+      },
+      "dominant_color": {
+        "annotated_value": "purple",
+        "gpt4o_score": 9
+      },
+      "substrate_attachment": {
+        "annotated_value": "resting on substrate",
+        "gpt4o_score": 9
+      }
+    },
+    "concat_file": "008_Echinoderms_6.0_Paelopatides_confundens.jpg"
+  },
+  {
+    "entry_id": "fn_aa291a5c-3664-4b36-9297-7959f5ee2863_Sponges_obj1",
+    "group": "Sponges",
+    "concept": "Porifera",
+    "bbox": [
+      1082,
+      237,
+      61,
+      74
+    ],
+    "avg_score": 6.14,
+    "patch_file": "fn_aa291a5c-3664-4b36-9297-7959f5ee2863_Sponges_obj1.jpg",
+    "image_file": "aa291a5c-3664-4b36-9297-7959f5ee2863.jpg",
+    "attributes": {
+      "sponge_growth_type": {
+        "annotated_value": "encrusting sponge",
+        "gpt4o_score": 4
+      },
+      "surface_channel_diagnosis": {
+        "annotated_value": "Object spreads along substrate surface with irregular porous surface; low relief and dark appearance suggest encrusting form with indistinct channels.",
+        "gpt4o_score": 5
+      },
+      "overall_body_form": {
+        "annotated_value": "irregular",
+        "gpt4o_score": 6
+      },
+      "attachment_extent": {
+        "annotated_value": "widely encrusting",
+        "gpt4o_score": 5
+      },
+      "osculum_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 8
+      },
+      "osculum_form": {
+        "annotated_value": "not applicable",
+        "gpt4o_score": 8
+      },
+      "branch_tube_organization": {
+        "annotated_value": "single massive body",
+        "gpt4o_score": 6
+      },
+      "relief_thickness": {
+        "annotated_value": "low",
+        "gpt4o_score": 5
+      },
+      "dominant_color": {
+        "annotated_value": "gray",
+        "gpt4o_score": 7
+      },
+      "surface_porosity": {
+        "annotated_value": "low",
+        "gpt4o_score": 6
+      },
+      "surface_texture": {
+        "annotated_value": "porous",
+        "gpt4o_score": 6
+      },
+      "epibiont_cover": {
+        "annotated_value": "none",
+        "gpt4o_score": 7
+      },
+      "substrate_relation": {
+        "annotated_value": "attached to substrate",
+        "gpt4o_score": 6
+      },
+      "occlusion": {
+        "annotated_value": "partial",
+        "gpt4o_score": 7
+      }
+    },
+    "concat_file": "009_Sponges_6.1_Porifera.jpg"
+  },
+  {
+    "entry_id": "fn_67072d72-54e2-497a-90b7-7454683eb727_Crustaceans_obj0",
+    "group": "Crustaceans",
+    "concept": "Eusergestes similis",
+    "bbox": [
+      1006,
+      604,
+      128,
+      120
+    ],
+    "avg_score": 6.77,
+    "patch_file": "fn_67072d72-54e2-497a-90b7-7454683eb727_Crustaceans_obj0.jpg",
+    "image_file": "67072d72-54e2-497a-90b7-7454683eb727.jpg",
+    "attributes": {
+      "crustacean_group": {
+        "annotated_value": "amphipod-like",
+        "gpt4o_score": 6
+      },
+      "body_plan": {
+        "annotated_value": "elongate shrimp-like",
+        "gpt4o_score": 7
+      },
+      "carapace_shape": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 7
+      },
+      "rostrum_prominence": {
+        "annotated_value": "short",
+        "gpt4o_score": 6
+      },
+      "cheliped_development": {
+        "annotated_value": "none obvious",
+        "gpt4o_score": 8
+      },
+      "leg_form": {
+        "annotated_value": "walking legs",
+        "gpt4o_score": 7
+      },
+      "abdomen_exposure": {
+        "annotated_value": "partly tucked",
+        "gpt4o_score": 6
+      },
+      "body_segmentation_visibility": {
+        "annotated_value": "partial",
+        "gpt4o_score": 5
+      },
+      "antenna_prominence": {
+        "annotated_value": "not obvious",
+        "gpt4o_score": 5
+      },
+      "surface_armature": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 7
+      },
+      "dominant_color": {
+        "annotated_value": "red",
+        "gpt4o_score": 8
+      },
+      "shell_occupation": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "posture": {
+        "annotated_value": "resting",
+        "gpt4o_score": 7
+      }
+    },
+    "concat_file": "010_Crustaceans_6.8_Eusergestes_similis.jpg"
+  },
+  {
+    "entry_id": "fn_4bb08ec7-15cf-404c-b747-a53e2ba487ee_Fish_obj0",
+    "group": "Fish",
+    "concept": "Merluccius productus",
+    "bbox": [
+      1599,
+      180,
+      319,
+      116
+    ],
+    "avg_score": 6.95,
+    "patch_file": "fn_4bb08ec7-15cf-404c-b747-a53e2ba487ee_Fish_obj0.jpg",
+    "image_file": "4bb08ec7-15cf-404c-b747-a53e2ba487ee.jpg",
+    "attributes": {
+      "species": {
+        "annotated_value": "Merluccius productus",
+        "gpt4o_score": 6
+      },
+      "diagnosis": {
+        "annotated_value": "Silver-gray body with black speckling",
+        "gpt4o_score": 5
+      },
+      "dorsal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 7
+      },
+      "caudal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 7
+      },
+      "pectoral_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 6
+      },
+      "pelvic_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "anal_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "adipose_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "barbel": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "body_shape_lateral": {
+        "annotated_value": "fusiform",
+        "gpt4o_score": 7
+      },
+      "type_of_eyes": {
+        "annotated_value": "normal",
+        "gpt4o_score": 7
+      },
+      "type_of_mouth_snout": {
+        "annotated_value": "terminal mouth",
+        "gpt4o_score": 7
+      },
+      "cross_section": {
+        "annotated_value": "circular",
+        "gpt4o_score": 6
+      },
+      "dorsal_head_profile": {
+        "annotated_value": "rounded",
+        "gpt4o_score": 6
+      },
+      "color": {
+        "annotated_value": "silver-gray",
+        "gpt4o_score": 7
+      },
+      "camouflage": {
+        "annotated_value": "low",
+        "gpt4o_score": 6
+      },
+      "texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 7
+      },
+      "body_damage": {
+        "annotated_value": "none",
+        "gpt4o_score": 8
+      },
+      "interaction": {
+        "annotated_value": "none",
+        "gpt4o_score": 8
+      }
+    },
+    "concat_file": "011_Fish_7.0_Merluccius_productus.jpg"
+  },
+  {
+    "entry_id": "fn_4bb08ec7-15cf-404c-b747-a53e2ba487ee_Fish_obj1",
+    "group": "Fish",
+    "concept": "Hydrolagus colliei",
+    "bbox": [
+      1384,
+      771,
+      147,
+      61
+    ],
+    "avg_score": 7.05,
+    "patch_file": "fn_4bb08ec7-15cf-404c-b747-a53e2ba487ee_Fish_obj1.jpg",
+    "image_file": "4bb08ec7-15cf-404c-b747-a53e2ba487ee.jpg",
+    "attributes": {
+      "species": {
+        "annotated_value": "Hydrolagus colliei",
+        "gpt4o_score": 6
+      },
+      "diagnosis": {
+        "annotated_value": "Pointed snout, spotted body, elongate body shape.",
+        "gpt4o_score": 7
+      },
+      "dorsal_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 5
+      },
+      "caudal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 8
+      },
+      "pectoral_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 7
+      },
+      "pelvic_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 7
+      },
+      "anal_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 6
+      },
+      "adipose_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 6
+      },
+      "barbel": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "body_shape_lateral": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 8
+      },
+      "type_of_eyes": {
+        "annotated_value": "small-eyed",
+        "gpt4o_score": 7
+      },
+      "type_of_mouth_snout": {
+        "annotated_value": "terminal mouth",
+        "gpt4o_score": 7
+      },
+      "cross_section": {
+        "annotated_value": "flattened",
+        "gpt4o_score": 6
+      },
+      "dorsal_head_profile": {
+        "annotated_value": "concave",
+        "gpt4o_score": 6
+      },
+      "color": {
+        "annotated_value": "black-and-white",
+        "gpt4o_score": 7
+      },
+      "camouflage": {
+        "annotated_value": "high",
+        "gpt4o_score": 8
+      },
+      "texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 7
+      },
+      "body_damage": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "interaction": {
+        "annotated_value": "['none']",
+        "gpt4o_score": 9
+      }
+    },
+    "concat_file": "012_Fish_7.0_Hydrolagus_colliei.jpg"
+  },
+  {
+    "entry_id": "fn_978c6940-9954-4301-80e7-eb284c98d477_Echinoderms_obj0",
+    "group": "Echinoderms",
+    "concept": "Scotoplanes globosa",
+    "bbox": [
+      156,
+      116,
+      107,
+      115
+    ],
+    "avg_score": 7.17,
+    "patch_file": "fn_978c6940-9954-4301-80e7-eb284c98d477_Echinoderms_obj0.jpg",
+    "image_file": "978c6940-9954-4301-80e7-eb284c98d477.jpg",
+    "attributes": {
+      "echinoderm_group": {
+        "annotated_value": "sea cucumber",
+        "gpt4o_score": 8
+      },
+      "body_symmetry": {
+        "annotated_value": "bilateral-like elongate",
+        "gpt4o_score": 7
+      },
+      "overall_body_form": {
+        "annotated_value": "disk-like",
+        "gpt4o_score": 6
+      },
+      "arm_presence_form": {
+        "annotated_value": "no arms visible",
+        "gpt4o_score": 7
+      },
+      "arm_count_coarse": {
+        "annotated_value": "6-10",
+        "gpt4o_score": 6
+      },
+      "central_disc_prominence": {
+        "annotated_value": "moderate",
+        "gpt4o_score": 5
+      },
+      "spine_development": {
+        "annotated_value": "none obvious",
+        "gpt4o_score": 8
+      },
+      "tube_feet_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 8
+      },
+      "body_inflation": {
+        "annotated_value": "moderate",
+        "gpt4o_score": 7
+      },
+      "surface_texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "dominant_color": {
+        "annotated_value": "brown",
+        "gpt4o_score": 7
+      },
+      "substrate_attachment": {
+        "annotated_value": "resting on substrate",
+        "gpt4o_score": 9
+      }
+    },
+    "concat_file": "013_Echinoderms_7.2_Scotoplanes_globosa.jpg"
+  },
+  {
+    "entry_id": "fn_ab0a6fea-6793-4d80-86b9-2033ef596916_Other_Creatures_obj0",
+    "group": "Other Creatures",
+    "concept": "Pycnogonida",
+    "bbox": [
+      1696,
+      891,
+      139,
+      121
+    ],
+    "avg_score": 7.18,
+    "patch_file": "fn_ab0a6fea-6793-4d80-86b9-2033ef596916_Other_Creatures_obj0.jpg",
+    "image_file": "ab0a6fea-6793-4d80-86b9-2033ef596916.jpg",
+    "attributes": {
+      "creature_type": {
+        "annotated_value": "amorphous biota",
+        "gpt4o_score": 4
+      },
+      "visual_diagnosis": {
+        "annotated_value": "Irregular, branching structure",
+        "gpt4o_score": 5
+      },
+      "body_shape": {
+        "annotated_value": "irregular",
+        "gpt4o_score": 6
+      },
+      "symmetry": {
+        "annotated_value": "asymmetrical",
+        "gpt4o_score": 6
+      },
+      "body_organization": {
+        "annotated_value": "segmented",
+        "gpt4o_score": 5
+      },
+      "appendage_type": {
+        "annotated_value": "filaments",
+        "gpt4o_score": 6
+      },
+      "hard_structure_presence": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "repetition_modularity": {
+        "annotated_value": "not obvious",
+        "gpt4o_score": 7
+      },
+      "dominant_color": {
+        "annotated_value": "green",
+        "gpt4o_score": 9
+      },
+      "color_pattern": {
+        "annotated_value": "uniform",
+        "gpt4o_score": 8
+      },
+      "surface_texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 7
+      },
+      "transparency": {
+        "annotated_value": "opaque",
+        "gpt4o_score": 8
+      },
+      "surface_relief": {
+        "annotated_value": "low",
+        "gpt4o_score": 7
+      },
+      "camouflage_visibility": {
+        "annotated_value": "medium",
+        "gpt4o_score": 9
+      },
+      "body_posture": {
+        "annotated_value": "resting",
+        "gpt4o_score": 8
+      },
+      "substrate_relation": {
+        "annotated_value": "['attached to substrate']",
+        "gpt4o_score": 9
+      },
+      "occlusion": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "014_Other Creatures_7.2_Pycnogonida.jpg"
+  },
+  {
+    "entry_id": "fn_2db6d93c-22ac-43c4-a8c0-50a8cbf38514_Cnidaria_other_obj0",
+    "group": "Cnidaria_other",
+    "concept": "Benthocodon pedunculata",
+    "bbox": [
+      1330,
+      176,
+      75,
+      69
+    ],
+    "avg_score": 7.35,
+    "patch_file": "fn_2db6d93c-22ac-43c4-a8c0-50a8cbf38514_Cnidaria_other_obj0.jpg",
+    "image_file": "2db6d93c-22ac-43c4-a8c0-50a8cbf38514.jpg",
+    "attributes": {
+      "cnidarian_type": {
+        "annotated_value": "hydroid-like",
+        "gpt4o_score": 6
+      },
+      "tentacle_arrangement_diagnosis": {
+        "annotated_value": "Body column attached to substrate, oral disc surrounded by multiple rings of slender tentacles",
+        "gpt4o_score": 5
+      },
+      "body_form": {
+        "annotated_value": "columnar",
+        "gpt4o_score": 7
+      },
+      "symmetry_type": {
+        "annotated_value": "radial",
+        "gpt4o_score": 8
+      },
+      "bell_presence": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "tentacle_prominence": {
+        "annotated_value": "high",
+        "gpt4o_score": 5
+      },
+      "tentacle_form": {
+        "annotated_value": "short tapering",
+        "gpt4o_score": 5
+      },
+      "oral_arm_presence": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "attachment_mode": {
+        "annotated_value": "attached to substrate",
+        "gpt4o_score": 8
+      },
+      "colony_organization": {
+        "annotated_value": "solitary",
+        "gpt4o_score": 8
+      },
+      "dominant_color": {
+        "annotated_value": "brown",
+        "gpt4o_score": 7
+      },
+      "transparency": {
+        "annotated_value": "opaque",
+        "gpt4o_score": 8
+      },
+      "surface_texture": {
+        "annotated_value": "fleshy",
+        "gpt4o_score": 7
+      },
+      "color_pattern": {
+        "annotated_value": "uniform",
+        "gpt4o_score": 7
+      },
+      "bell_body_integrity": {
+        "annotated_value": "intact",
+        "gpt4o_score": 9
+      },
+      "posture": {
+        "annotated_value": "attached-spread",
+        "gpt4o_score": 8
+      },
+      "occlusion": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      }
+    },
+    "concat_file": "015_Cnidaria_other_7.3_Benthocodon_pedunculata.jpg"
+  },
+  {
+    "entry_id": "fn_ee786823-7188-4b6b-8f10-affb029db511_Echinoderms_obj0",
+    "group": "Echinoderms",
+    "concept": "echinoderm",
+    "bbox": [
+      592,
+      898,
+      322,
+      181
+    ],
+    "avg_score": 7.36,
+    "patch_file": "fn_ee786823-7188-4b6b-8f10-affb029db511_Echinoderms_obj0.jpg",
+    "image_file": "ee786823-7188-4b6b-8f10-affb029db511.jpg",
+    "attributes": {
+      "echinoderm_group": {
+        "annotated_value": "sea cucumber",
+        "gpt4o_score": 6
+      },
+      "body_symmetry": {
+        "annotated_value": "bilateral-like elongate",
+        "gpt4o_score": 7
+      },
+      "overall_body_form": {
+        "annotated_value": "elongated cylindrical",
+        "gpt4o_score": 7
+      },
+      "arm_presence_form": {
+        "annotated_value": "no arms visible",
+        "gpt4o_score": 8
+      },
+      "central_disc_prominence": {
+        "annotated_value": "not applicable",
+        "gpt4o_score": 9
+      },
+      "spine_development": {
+        "annotated_value": "light",
+        "gpt4o_score": 8
+      },
+      "tube_feet_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 6
+      },
+      "body_inflation": {
+        "annotated_value": "moderate",
+        "gpt4o_score": 7
+      },
+      "surface_texture": {
+        "annotated_value": "knobby",
+        "gpt4o_score": 8
+      },
+      "dominant_color": {
+        "annotated_value": "brown",
+        "gpt4o_score": 7
+      },
+      "substrate_attachment": {
+        "annotated_value": "partly buried",
+        "gpt4o_score": 8
+      }
+    },
+    "concat_file": "016_Echinoderms_7.4_echinoderm.jpg"
+  },
+  {
+    "entry_id": "fn_115c77d1-9223-4323-99de-af931b87ce78_Fish_obj2",
+    "group": "Fish",
+    "concept": "Lycenchelys crotalinus",
+    "bbox": [
+      658,
+      532,
+      260,
+      180
+    ],
+    "avg_score": 7.37,
+    "patch_file": "fn_115c77d1-9223-4323-99de-af931b87ce78_Fish_obj2.jpg",
+    "image_file": "115c77d1-9223-4323-99de-af931b87ce78.jpg",
+    "attributes": {
+      "species": {
+        "annotated_value": "Lycenchelys crotalinus",
+        "gpt4o_score": 7
+      },
+      "diagnosis": {
+        "annotated_value": "Elongate, eelpout-shaped body with a distinct head and tail; lacks visible fins; dark coloration; observed on the seafloor.",
+        "gpt4o_score": 8
+      },
+      "dorsal_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 6
+      },
+      "caudal_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 6
+      },
+      "pectoral_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 4
+      },
+      "pelvic_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 4
+      },
+      "anal_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 6
+      },
+      "adipose_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 6
+      },
+      "barbel": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "body_shape_lateral": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 9
+      },
+      "type_of_eyes": {
+        "annotated_value": "small-eyed",
+        "gpt4o_score": 8
+      },
+      "type_of_mouth_snout": {
+        "annotated_value": "terminal mouth",
+        "gpt4o_score": 8
+      },
+      "cross_section": {
+        "annotated_value": "compressed",
+        "gpt4o_score": 7
+      },
+      "dorsal_head_profile": {
+        "annotated_value": "straight",
+        "gpt4o_score": 7
+      },
+      "color": {
+        "annotated_value": "dark",
+        "gpt4o_score": 9
+      },
+      "camouflage": {
+        "annotated_value": "high",
+        "gpt4o_score": 9
+      },
+      "texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "body_damage": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      },
+      "interaction": {
+        "annotated_value": "['none']",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "017_Fish_7.4_Lycenchelys_crotalinus.jpg"
+  },
+  {
+    "entry_id": "fn_a19f78c0-cda1-44d0-8826-224ffe4da032_Echinoderms_obj0",
+    "group": "Echinoderms",
+    "concept": "Echinocrepis rostrata",
+    "bbox": [
+      1272,
+      486,
+      232,
+      192
+    ],
+    "avg_score": 7.42,
+    "patch_file": "fn_a19f78c0-cda1-44d0-8826-224ffe4da032_Echinoderms_obj0.jpg",
+    "image_file": "a19f78c0-cda1-44d0-8826-224ffe4da032.jpg",
+    "attributes": {
+      "echinoderm_group": {
+        "annotated_value": "sea cucumber",
+        "gpt4o_score": 4
+      },
+      "body_symmetry": {
+        "annotated_value": "pentaradial",
+        "gpt4o_score": 6
+      },
+      "overall_body_form": {
+        "annotated_value": "disk-like",
+        "gpt4o_score": 7
+      },
+      "arm_presence_form": {
+        "annotated_value": "no arms visible",
+        "gpt4o_score": 9
+      },
+      "arm_count_coarse": {
+        "annotated_value": "0",
+        "gpt4o_score": 9
+      },
+      "central_disc_prominence": {
+        "annotated_value": "not applicable",
+        "gpt4o_score": 8
+      },
+      "spine_development": {
+        "annotated_value": "light",
+        "gpt4o_score": 7
+      },
+      "tube_feet_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 8
+      },
+      "body_inflation": {
+        "annotated_value": "moderate",
+        "gpt4o_score": 7
+      },
+      "surface_texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "dominant_color": {
+        "annotated_value": "brown",
+        "gpt4o_score": 6
+      },
+      "substrate_attachment": {
+        "annotated_value": "resting on substrate",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "018_Echinoderms_7.4_Echinocrepis_rostrata.jpg"
+  },
+  {
+    "entry_id": "fn_f864515d-e596-4861-ad63-24b241fab936_Echinoderms_obj0",
+    "group": "Echinoderms",
+    "concept": "Echinocrepis rostrata",
+    "bbox": [
+      1416,
+      711,
+      267,
+      234
+    ],
+    "avg_score": 7.45,
+    "patch_file": "fn_f864515d-e596-4861-ad63-24b241fab936_Echinoderms_obj0.jpg",
+    "image_file": "f864515d-e596-4861-ad63-24b241fab936.jpg",
+    "attributes": {
+      "echinoderm_group": {
+        "annotated_value": "sea star",
+        "gpt4o_score": 3
+      },
+      "body_symmetry": {
+        "annotated_value": "radial",
+        "gpt4o_score": 8
+      },
+      "overall_body_form": {
+        "annotated_value": "star-like",
+        "gpt4o_score": 3
+      },
+      "arm_presence_form": {
+        "annotated_value": "no arms visible",
+        "gpt4o_score": 9
+      },
+      "central_disc_prominence": {
+        "annotated_value": "strong",
+        "gpt4o_score": 6
+      },
+      "spine_development": {
+        "annotated_value": "none obvious",
+        "gpt4o_score": 9
+      },
+      "tube_feet_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 10
+      },
+      "body_inflation": {
+        "annotated_value": "flattened",
+        "gpt4o_score": 8
+      },
+      "surface_texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 9
+      },
+      "dominant_color": {
+        "annotated_value": "black",
+        "gpt4o_score": 7
+      },
+      "substrate_attachment": {
+        "annotated_value": "resting on substrate",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "019_Echinoderms_7.5_Echinocrepis_rostrata.jpg"
+  },
+  {
+    "entry_id": "fn_6ffa0e87-b31b-4510-bb04-0517c8b9ca58_Fish_obj1",
+    "group": "Fish",
+    "concept": "Anoplopoma fimbria",
+    "bbox": [
+      1,
+      1057,
+      724,
+      142
+    ],
+    "avg_score": 7.47,
+    "patch_file": "fn_6ffa0e87-b31b-4510-bb04-0517c8b9ca58_Fish_obj1.jpg",
+    "image_file": "6ffa0e87-b31b-4510-bb04-0517c8b9ca58.jpg",
+    "attributes": {
+      "species": {
+        "annotated_value": "Anoplopoma fimbria",
+        "gpt4o_score": 7
+      },
+      "diagnosis": {
+        "annotated_value": "Dorsal fin with spiny rays, elongated body, and distinct lateral line.",
+        "gpt4o_score": 6
+      },
+      "dorsal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 9
+      },
+      "caudal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 8
+      },
+      "pectoral_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 7
+      },
+      "pelvic_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 6
+      },
+      "anal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 6
+      },
+      "adipose_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "barbel": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "body_shape_lateral": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 8
+      },
+      "type_of_eyes": {
+        "annotated_value": "normal",
+        "gpt4o_score": 7
+      },
+      "type_of_mouth_snout": {
+        "annotated_value": "terminal mouth",
+        "gpt4o_score": 7
+      },
+      "cross_section": {
+        "annotated_value": "circular",
+        "gpt4o_score": 6
+      },
+      "dorsal_head_profile": {
+        "annotated_value": "convex",
+        "gpt4o_score": 7
+      },
+      "color": {
+        "annotated_value": "silver",
+        "gpt4o_score": 8
+      },
+      "camouflage": {
+        "annotated_value": "low",
+        "gpt4o_score": 7
+      },
+      "texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "body_damage": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "interaction": {
+        "annotated_value": "['none']",
+        "gpt4o_score": 9
+      }
+    },
+    "concat_file": "020_Fish_7.5_Anoplopoma_fimbria.jpg"
+  },
+  {
+    "entry_id": "fn_752161f2-1471-480b-90de-6118e8c55b21_Crustaceans_obj0",
+    "group": "Crustaceans",
+    "concept": "Lithodidae",
+    "bbox": [
+      800,
+      533,
+      140,
+      175
+    ],
+    "avg_score": 7.54,
+    "patch_file": "fn_752161f2-1471-480b-90de-6118e8c55b21_Crustaceans_obj0.jpg",
+    "image_file": "752161f2-1471-480b-90de-6118e8c55b21.jpg",
+    "attributes": {
+      "crustacean_group": {
+        "annotated_value": "crab",
+        "gpt4o_score": 6
+      },
+      "body_plan": {
+        "annotated_value": "broad crab-like",
+        "gpt4o_score": 7
+      },
+      "carapace_shape": {
+        "annotated_value": "rounded",
+        "gpt4o_score": 7
+      },
+      "rostrum_prominence": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "cheliped_development": {
+        "annotated_value": "prominent",
+        "gpt4o_score": 9
+      },
+      "leg_form": {
+        "annotated_value": "walking legs",
+        "gpt4o_score": 8
+      },
+      "abdomen_exposure": {
+        "annotated_value": "partly tucked",
+        "gpt4o_score": 7
+      },
+      "body_segmentation_visibility": {
+        "annotated_value": "partial",
+        "gpt4o_score": 6
+      },
+      "antenna_prominence": {
+        "annotated_value": "short",
+        "gpt4o_score": 7
+      },
+      "surface_armature": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 5
+      },
+      "dominant_color": {
+        "annotated_value": "translucent",
+        "gpt4o_score": 9
+      },
+      "shell_occupation": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      },
+      "posture": {
+        "annotated_value": "resting",
+        "gpt4o_score": 9
+      }
+    },
+    "concat_file": "021_Crustaceans_7.5_Lithodidae.jpg"
+  },
+  {
+    "entry_id": "fn_fea8c3c5-e6a4-4892-b3a9-9989436097e2_Crustaceans_obj0",
+    "group": "Crustaceans",
+    "concept": "Caridea",
+    "bbox": [
+      1689,
+      928,
+      104,
+      115
+    ],
+    "avg_score": 7.54,
+    "patch_file": "fn_fea8c3c5-e6a4-4892-b3a9-9989436097e2_Crustaceans_obj0.jpg",
+    "image_file": "fea8c3c5-e6a4-4892-b3a9-9989436097e2.jpg",
+    "attributes": {
+      "crustacean_group": {
+        "annotated_value": "shrimp",
+        "gpt4o_score": 8
+      },
+      "body_plan": {
+        "annotated_value": "elongate shrimp-like",
+        "gpt4o_score": 8
+      },
+      "carapace_shape": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 7
+      },
+      "rostrum_prominence": {
+        "annotated_value": "short",
+        "gpt4o_score": 7
+      },
+      "cheliped_development": {
+        "annotated_value": "none obvious",
+        "gpt4o_score": 8
+      },
+      "leg_form": {
+        "annotated_value": "walking legs",
+        "gpt4o_score": 8
+      },
+      "abdomen_exposure": {
+        "annotated_value": "fully exposed",
+        "gpt4o_score": 8
+      },
+      "body_segmentation_visibility": {
+        "annotated_value": "partial",
+        "gpt4o_score": 6
+      },
+      "antenna_prominence": {
+        "annotated_value": "not obvious",
+        "gpt4o_score": 6
+      },
+      "surface_armature": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "dominant_color": {
+        "annotated_value": "brown",
+        "gpt4o_score": 7
+      },
+      "shell_occupation": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "posture": {
+        "annotated_value": "resting",
+        "gpt4o_score": 8
+      }
+    },
+    "concat_file": "022_Crustaceans_7.5_Caridea.jpg"
+  },
+  {
+    "entry_id": "fn_d05f35f4-2b73-4fa8-9570-52e5544557bf_Fish_obj0",
+    "group": "Fish",
+    "concept": "Trachipterus altivelis",
+    "bbox": [
+      661,
+      445,
+      222,
+      262
+    ],
+    "avg_score": 7.56,
+    "patch_file": "fn_d05f35f4-2b73-4fa8-9570-52e5544557bf_Fish_obj0.jpg",
+    "image_file": "d05f35f4-2b73-4fa8-9570-52e5544557bf.jpg",
+    "attributes": {
+      "species": {
+        "annotated_value": "Trachipterus altivelis",
+        "gpt4o_score": 6
+      },
+      "diagnosis": {
+        "annotated_value": "Elongate, ribbon-like body with a long, trailing filamentous structure extending from the head region; appears translucent and ghostly in deep water.",
+        "gpt4o_score": 8
+      },
+      "dorsal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 7
+      },
+      "caudal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 7
+      },
+      "pectoral_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 6
+      },
+      "pelvic_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 6
+      },
+      "anal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 6
+      },
+      "adipose_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "barbel": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "body_shape_lateral": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 8
+      },
+      "type_of_eyes": {
+        "annotated_value": "small-eyed",
+        "gpt4o_score": 7
+      },
+      "cross_section": {
+        "annotated_value": "compressed",
+        "gpt4o_score": 7
+      },
+      "dorsal_head_profile": {
+        "annotated_value": "straight",
+        "gpt4o_score": 7
+      },
+      "color": {
+        "annotated_value": "translucent",
+        "gpt4o_score": 9
+      },
+      "camouflage": {
+        "annotated_value": "low",
+        "gpt4o_score": 8
+      },
+      "texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "body_damage": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "interaction": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      }
+    },
+    "concat_file": "023_Fish_7.6_Trachipterus_altivelis.jpg"
+  },
+  {
+    "entry_id": "fn_2ecb073c-55f3-41b3-80eb-327fa9b57af5_Fish_obj0",
+    "group": "Fish",
+    "concept": "Microstomus pacificus",
+    "bbox": [
+      208,
+      873,
+      190,
+      83
+    ],
+    "avg_score": 7.58,
+    "patch_file": "fn_2ecb073c-55f3-41b3-80eb-327fa9b57af5_Fish_obj0.jpg",
+    "image_file": "2ecb073c-55f3-41b3-80eb-327fa9b57af5.jpg",
+    "attributes": {
+      "species": {
+        "annotated_value": "Microstomus pacificus",
+        "gpt4o_score": 6
+      },
+      "diagnosis": {
+        "annotated_value": "Depressiform body shape, flattened profile.",
+        "gpt4o_score": 7
+      },
+      "dorsal_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "caudal_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "pectoral_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "pelvic_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "anal_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "adipose_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "barbel": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "body_shape_lateral": {
+        "annotated_value": "depressiform",
+        "gpt4o_score": 7
+      },
+      "type_of_eyes": {
+        "annotated_value": "small-eyed",
+        "gpt4o_score": 6
+      },
+      "type_of_mouth_snout": {
+        "annotated_value": "inferior mouth",
+        "gpt4o_score": 6
+      },
+      "cross_section": {
+        "annotated_value": "flattened",
+        "gpt4o_score": 7
+      },
+      "dorsal_head_profile": {
+        "annotated_value": "rounded",
+        "gpt4o_score": 7
+      },
+      "color": {
+        "annotated_value": "dark",
+        "gpt4o_score": 8
+      },
+      "camouflage": {
+        "annotated_value": "high",
+        "gpt4o_score": 9
+      },
+      "texture": {
+        "annotated_value": "slimy-looking",
+        "gpt4o_score": 7
+      },
+      "body_damage": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "interaction": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      }
+    },
+    "concat_file": "024_Fish_7.6_Microstomus_pacificus.jpg"
+  },
+  {
+    "entry_id": "fn_e6596dea-009e-4ed6-a7e2-8e0a02d4385a_Cnidaria_other_obj0",
+    "group": "Cnidaria_other",
+    "concept": "Bargmannia lata",
+    "bbox": [
+      145,
+      105,
+      393,
+      375
+    ],
+    "avg_score": 7.59,
+    "patch_file": "fn_e6596dea-009e-4ed6-a7e2-8e0a02d4385a_Cnidaria_other_obj0.jpg",
+    "image_file": "e6596dea-009e-4ed6-a7e2-8e0a02d4385a.jpg",
+    "attributes": {
+      "cnidarian_type": {
+        "annotated_value": "jellyfish-like",
+        "gpt4o_score": 7
+      },
+      "tentacle_arrangement_diagnosis": {
+        "annotated_value": "Semi-transparent bell with tentacles evenly distributed along bell margin",
+        "gpt4o_score": 6
+      },
+      "body_form": {
+        "annotated_value": "bell-like",
+        "gpt4o_score": 5
+      },
+      "symmetry_type": {
+        "annotated_value": "radial",
+        "gpt4o_score": 8
+      },
+      "bell_presence": {
+        "annotated_value": "present",
+        "gpt4o_score": 5
+      },
+      "tentacle_prominence": {
+        "annotated_value": "low",
+        "gpt4o_score": 6
+      },
+      "tentacle_form": {
+        "annotated_value": "filiform",
+        "gpt4o_score": 7
+      },
+      "oral_arm_presence": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "attachment_mode": {
+        "annotated_value": "free in water",
+        "gpt4o_score": 10
+      },
+      "colony_organization": {
+        "annotated_value": "solitary",
+        "gpt4o_score": 9
+      },
+      "dominant_color": {
+        "annotated_value": "transparent",
+        "gpt4o_score": 8
+      },
+      "transparency": {
+        "annotated_value": "translucent",
+        "gpt4o_score": 9
+      },
+      "surface_texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "color_pattern": {
+        "annotated_value": "banded",
+        "gpt4o_score": 7
+      },
+      "bell_body_integrity": {
+        "annotated_value": "intact",
+        "gpt4o_score": 8
+      },
+      "posture": {
+        "annotated_value": "contracted",
+        "gpt4o_score": 7
+      },
+      "occlusion": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "025_Cnidaria_other_7.6_Bargmannia_lata.jpg"
+  },
+  {
+    "entry_id": "fn_3c268da6-883b-46c9-b0bc-f72204d3e440_Coral_obj0",
+    "group": "Coral",
+    "concept": "stony coral",
+    "bbox": [
+      2,
+      833,
+      211,
+      185
+    ],
+    "avg_score": 7.59,
+    "patch_file": "fn_3c268da6-883b-46c9-b0bc-f72204d3e440_Coral_obj0.jpg",
+    "image_file": "3c268da6-883b-46c9-b0bc-f72204d3e440.jpg",
+    "attributes": {
+      "coral_group": {
+        "annotated_value": "hard coral",
+        "gpt4o_score": 8
+      },
+      "growth_form": {
+        "annotated_value": "branching",
+        "gpt4o_score": 7
+      },
+      "growth_outline_type": {
+        "annotated_value": "irregular",
+        "gpt4o_score": 7
+      },
+      "coloniality": {
+        "annotated_value": "colonial",
+        "gpt4o_score": 8
+      },
+      "colony_size": {
+        "annotated_value": "small",
+        "gpt4o_score": 8
+      },
+      "corallite_arrangement": {
+        "annotated_value": "irregular",
+        "gpt4o_score": 6
+      },
+      "color": {
+        "annotated_value": "brown",
+        "gpt4o_score": 8
+      },
+      "colony_relief": {
+        "annotated_value": "low",
+        "gpt4o_score": 7
+      },
+      "surface_texture": {
+        "annotated_value": "rough",
+        "gpt4o_score": 7
+      },
+      "corallite_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 6
+      },
+      "coral_preciousness_grade": {
+        "annotated_value": "low",
+        "gpt4o_score": 7
+      },
+      "bleaching_state": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "tissue_condition": {
+        "annotated_value": "intact",
+        "gpt4o_score": 8
+      },
+      "algal_overgrowth": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "sediment_cover": {
+        "annotated_value": "none",
+        "gpt4o_score": 8
+      },
+      "occlusion": {
+        "annotated_value": "none",
+        "gpt4o_score": 8
+      },
+      "neighboring_contact": {
+        "annotated_value": "['coral-rock contact']",
+        "gpt4o_score": 8
+      }
+    },
+    "concat_file": "026_Coral_7.6_stony_coral.jpg"
+  },
+  {
+    "entry_id": "fn_d8f4ba40-ae9b-491a-a754-34a23f26b034_Fish_obj11",
+    "group": "Fish",
+    "concept": "Merluccius productus",
+    "bbox": [
+      76,
+      182,
+      306,
+      86
+    ],
+    "avg_score": 7.61,
+    "patch_file": "fn_d8f4ba40-ae9b-491a-a754-34a23f26b034_Fish_obj11.jpg",
+    "image_file": "d8f4ba40-ae9b-491a-a754-34a23f26b034.jpg",
+    "attributes": {
+      "species": {
+        "annotated_value": "Merluccius productus",
+        "gpt4o_score": 6
+      },
+      "diagnosis": {
+        "annotated_value": "Elongate body, silver-gray color with black speckling",
+        "gpt4o_score": 7
+      },
+      "dorsal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 8
+      },
+      "caudal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 8
+      },
+      "pectoral_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 7
+      },
+      "pelvic_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 7
+      },
+      "anal_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 7
+      },
+      "adipose_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 7
+      },
+      "barbel": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "body_shape_lateral": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 9
+      },
+      "type_of_mouth_snout": {
+        "annotated_value": "terminal mouth",
+        "gpt4o_score": 8
+      },
+      "cross_section": {
+        "annotated_value": "circular",
+        "gpt4o_score": 7
+      },
+      "dorsal_head_profile": {
+        "annotated_value": "straight",
+        "gpt4o_score": 7
+      },
+      "color": {
+        "annotated_value": "silver-gray",
+        "gpt4o_score": 8
+      },
+      "camouflage": {
+        "annotated_value": "low",
+        "gpt4o_score": 7
+      },
+      "texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "body_damage": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "interaction": {
+        "annotated_value": "['schooling']",
+        "gpt4o_score": 9
+      }
+    },
+    "concat_file": "027_Fish_7.6_Merluccius_productus.jpg"
+  },
+  {
+    "entry_id": "fn_248294e9-8d63-4d91-bb7b-eb6097aec7da_Cephalopods_obj0",
+    "group": "Cephalopods",
+    "concept": "Vampyroteuthis infernalis",
+    "bbox": [
+      641,
+      180,
+      149,
+      147
+    ],
+    "avg_score": 7.62,
+    "patch_file": "fn_248294e9-8d63-4d91-bb7b-eb6097aec7da_Cephalopods_obj0.jpg",
+    "image_file": "248294e9-8d63-4d91-bb7b-eb6097aec7da.jpg",
+    "attributes": {
+      "cephalopod_group": {
+        "annotated_value": "squid",
+        "gpt4o_score": 6
+      },
+      "body_form": {
+        "annotated_value": "disk-like",
+        "gpt4o_score": 7
+      },
+      "mantle_shape": {
+        "annotated_value": "rounded",
+        "gpt4o_score": 8
+      },
+      "fin_presence_placement": {
+        "annotated_value": "continuous fin fringe",
+        "gpt4o_score": 5
+      },
+      "tentacle_presence": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "sucker_visibility_type": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 9
+      },
+      "webbing_extent": {
+        "annotated_value": "extensive",
+        "gpt4o_score": 8
+      },
+      "head_to_mantle_proportion": {
+        "annotated_value": "balanced",
+        "gpt4o_score": 7
+      },
+      "dominant_color": {
+        "annotated_value": "brown",
+        "gpt4o_score": 9
+      },
+      "skin_pattern": {
+        "annotated_value": "uniform",
+        "gpt4o_score": 8
+      },
+      "skin_relief": {
+        "annotated_value": "low",
+        "gpt4o_score": 7
+      },
+      "camouflage_visibility": {
+        "annotated_value": "medium",
+        "gpt4o_score": 8
+      },
+      "posture": {
+        "annotated_value": "hovering",
+        "gpt4o_score": 8
+      }
+    },
+    "concat_file": "028_Cephalopods_7.6_Vampyroteuthis_infernalis.jpg"
+  },
+  {
+    "entry_id": "fn_1e60df87-6afe-4eb5-b32b-a02883fa713f_Fish_obj2",
+    "group": "Fish",
+    "concept": "Sebastolobus",
+    "bbox": [
+      1168,
+      453,
+      135,
+      66
+    ],
+    "avg_score": 7.63,
+    "patch_file": "fn_1e60df87-6afe-4eb5-b32b-a02883fa713f_Fish_obj2.jpg",
+    "image_file": "1e60df87-6afe-4eb5-b32b-a02883fa713f.jpg",
+    "attributes": {
+      "species": {
+        "annotated_value": "Sebastolobus",
+        "gpt4o_score": 7
+      },
+      "diagnosis": {
+        "annotated_value": "Fusiform body, elongated shape, small eyes, terminal mouth.",
+        "gpt4o_score": 6
+      },
+      "dorsal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 8
+      },
+      "caudal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 8
+      },
+      "pectoral_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 8
+      },
+      "pelvic_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 7
+      },
+      "anal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 7
+      },
+      "adipose_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "barbel": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "body_shape_lateral": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 8
+      },
+      "type_of_eyes": {
+        "annotated_value": "small-eyed",
+        "gpt4o_score": 7
+      },
+      "type_of_mouth_snout": {
+        "annotated_value": "terminal mouth",
+        "gpt4o_score": 8
+      },
+      "cross_section": {
+        "annotated_value": "circular",
+        "gpt4o_score": 6
+      },
+      "dorsal_head_profile": {
+        "annotated_value": "rounded",
+        "gpt4o_score": 7
+      },
+      "color": {
+        "annotated_value": "brown",
+        "gpt4o_score": 8
+      },
+      "camouflage": {
+        "annotated_value": "low",
+        "gpt4o_score": 7
+      },
+      "texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 7
+      },
+      "body_damage": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "interaction": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      }
+    },
+    "concat_file": "029_Fish_7.6_Sebastolobus.jpg"
+  },
+  {
+    "entry_id": "fn_3d974ea7-f55d-4ad8-ab37-9e2ce99b7935_Echinoderms_obj1",
+    "group": "Echinoderms",
+    "concept": "Echinocrepis rostrata",
+    "bbox": [
+      413,
+      486,
+      110,
+      101
+    ],
+    "avg_score": 7.64,
+    "patch_file": "fn_3d974ea7-f55d-4ad8-ab37-9e2ce99b7935_Echinoderms_obj1.jpg",
+    "image_file": "3d974ea7-f55d-4ad8-ab37-9e2ce99b7935.jpg",
+    "attributes": {
+      "echinoderm_group": {
+        "annotated_value": "sea star",
+        "gpt4o_score": 4
+      },
+      "body_symmetry": {
+        "annotated_value": "radial",
+        "gpt4o_score": 8
+      },
+      "overall_body_form": {
+        "annotated_value": "star-like",
+        "gpt4o_score": 5
+      },
+      "arm_presence_form": {
+        "annotated_value": "no arms visible",
+        "gpt4o_score": 7
+      },
+      "central_disc_prominence": {
+        "annotated_value": "strong",
+        "gpt4o_score": 6
+      },
+      "spine_development": {
+        "annotated_value": "none obvious",
+        "gpt4o_score": 9
+      },
+      "tube_feet_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 10
+      },
+      "body_inflation": {
+        "annotated_value": "flattened",
+        "gpt4o_score": 8
+      },
+      "surface_texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 9
+      },
+      "dominant_color": {
+        "annotated_value": "green",
+        "gpt4o_score": 8
+      },
+      "substrate_attachment": {
+        "annotated_value": "resting on substrate",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "030_Echinoderms_7.6_Echinocrepis_rostrata.jpg"
+  },
+  {
+    "entry_id": "fn_d044a4ca-dffa-44ab-8762-f612975cf501_Echinoderms_obj0",
+    "group": "Echinoderms",
+    "concept": "Echinocrepis rostrata",
+    "bbox": [
+      992,
+      125,
+      61,
+      56
+    ],
+    "avg_score": 7.67,
+    "patch_file": "fn_d044a4ca-dffa-44ab-8762-f612975cf501_Echinoderms_obj0.jpg",
+    "image_file": "d044a4ca-dffa-44ab-8762-f612975cf501.jpg",
+    "attributes": {
+      "echinoderm_group": {
+        "annotated_value": "sea cucumber",
+        "gpt4o_score": 6
+      },
+      "body_symmetry": {
+        "annotated_value": "pentaradial",
+        "gpt4o_score": 5
+      },
+      "overall_body_form": {
+        "annotated_value": "elongated cylindrical",
+        "gpt4o_score": 7
+      },
+      "arm_presence_form": {
+        "annotated_value": "no arms visible",
+        "gpt4o_score": 8
+      },
+      "arm_count_coarse": {
+        "annotated_value": "0",
+        "gpt4o_score": 8
+      },
+      "central_disc_prominence": {
+        "annotated_value": "not applicable",
+        "gpt4o_score": 9
+      },
+      "spine_development": {
+        "annotated_value": "light",
+        "gpt4o_score": 6
+      },
+      "tube_feet_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 9
+      },
+      "body_inflation": {
+        "annotated_value": "moderate",
+        "gpt4o_score": 7
+      },
+      "surface_texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "dominant_color": {
+        "annotated_value": "dark blue",
+        "gpt4o_score": 9
+      },
+      "substrate_attachment": {
+        "annotated_value": "resting on substrate",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "031_Echinoderms_7.7_Echinocrepis_rostrata.jpg"
+  },
+  {
+    "entry_id": "fn_4efc34bb-04b5-4df6-a71c-43afeca33e1d_Echinoderms_obj0",
+    "group": "Echinoderms",
+    "concept": "Pythonaster",
+    "bbox": [
+      76,
+      10,
+      1523,
+      889
+    ],
+    "avg_score": 7.67,
+    "patch_file": "fn_4efc34bb-04b5-4df6-a71c-43afeca33e1d_Echinoderms_obj0.jpg",
+    "image_file": "4efc34bb-04b5-4df6-a71c-43afeca33e1d.jpg",
+    "attributes": {
+      "echinoderm_group": {
+        "annotated_value": "brittle star",
+        "gpt4o_score": 7
+      },
+      "body_symmetry": {
+        "annotated_value": "bilateral-like elongate",
+        "gpt4o_score": 6
+      },
+      "overall_body_form": {
+        "annotated_value": "elongated cylindrical",
+        "gpt4o_score": 7
+      },
+      "arm_presence_form": {
+        "annotated_value": "slender arms",
+        "gpt4o_score": 8
+      },
+      "arm_count_coarse": {
+        "annotated_value": "many",
+        "gpt4o_score": 8
+      },
+      "central_disc_prominence": {
+        "annotated_value": "not applicable",
+        "gpt4o_score": 5
+      },
+      "spine_development": {
+        "annotated_value": "light",
+        "gpt4o_score": 7
+      },
+      "tube_feet_visibility": {
+        "annotated_value": "visible",
+        "gpt4o_score": 10
+      },
+      "body_inflation": {
+        "annotated_value": "moderate",
+        "gpt4o_score": 7
+      },
+      "surface_texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "dominant_color": {
+        "annotated_value": "white",
+        "gpt4o_score": 9
+      },
+      "substrate_attachment": {
+        "annotated_value": "resting on substrate",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "032_Echinoderms_7.7_Pythonaster.jpg"
+  },
+  {
+    "entry_id": "fn_b2f7d874-c536-45b4-99c1-8d4973799e8b_Crustaceans_obj0",
+    "group": "Crustaceans",
+    "concept": "Eusergestes similis",
+    "bbox": [
+      629,
+      69,
+      90,
+      272
+    ],
+    "avg_score": 7.69,
+    "patch_file": "fn_b2f7d874-c536-45b4-99c1-8d4973799e8b_Crustaceans_obj0.jpg",
+    "image_file": "b2f7d874-c536-45b4-99c1-8d4973799e8b.jpg",
+    "attributes": {
+      "crustacean_group": {
+        "annotated_value": "amphipod-like",
+        "gpt4o_score": 6
+      },
+      "body_plan": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 8
+      },
+      "carapace_shape": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 8
+      },
+      "rostrum_prominence": {
+        "annotated_value": "short",
+        "gpt4o_score": 7
+      },
+      "cheliped_development": {
+        "annotated_value": "none obvious",
+        "gpt4o_score": 9
+      },
+      "leg_form": {
+        "annotated_value": "walking legs",
+        "gpt4o_score": 7
+      },
+      "abdomen_exposure": {
+        "annotated_value": "partly tucked",
+        "gpt4o_score": 7
+      },
+      "body_segmentation_visibility": {
+        "annotated_value": "partial",
+        "gpt4o_score": 6
+      },
+      "antenna_prominence": {
+        "annotated_value": "moderate",
+        "gpt4o_score": 7
+      },
+      "surface_armature": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "dominant_color": {
+        "annotated_value": "translucent",
+        "gpt4o_score": 9
+      },
+      "shell_occupation": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      },
+      "posture": {
+        "annotated_value": "resting",
+        "gpt4o_score": 8
+      }
+    },
+    "concat_file": "033_Crustaceans_7.7_Eusergestes_similis.jpg"
+  },
+  {
+    "entry_id": "fn_4cdddccf-5763-4cdf-b526-e24e207b7645_Coral_obj0",
+    "group": "Coral",
+    "concept": "Keratoisis",
+    "bbox": [
+      1368,
+      74,
+      266,
+      218
+    ],
+    "avg_score": 7.71,
+    "patch_file": "fn_4cdddccf-5763-4cdf-b526-e24e207b7645_Coral_obj0.jpg",
+    "image_file": "4cdddccf-5763-4cdf-b526-e24e207b7645.jpg",
+    "attributes": {
+      "coral_group": {
+        "annotated_value": "octocoral",
+        "gpt4o_score": 8
+      },
+      "growth_form": {
+        "annotated_value": "massive",
+        "gpt4o_score": 6
+      },
+      "growth_outline_type": {
+        "annotated_value": "rounded",
+        "gpt4o_score": 7
+      },
+      "coloniality": {
+        "annotated_value": "solitary",
+        "gpt4o_score": 6
+      },
+      "colony_size": {
+        "annotated_value": "medium",
+        "gpt4o_score": 8
+      },
+      "corallite_arrangement": {
+        "annotated_value": "irregular",
+        "gpt4o_score": 5
+      },
+      "color": {
+        "annotated_value": "yellow",
+        "gpt4o_score": 9
+      },
+      "colony_relief": {
+        "annotated_value": "high",
+        "gpt4o_score": 8
+      },
+      "surface_texture": {
+        "annotated_value": "ridged",
+        "gpt4o_score": 8
+      },
+      "corallite_visibility": {
+        "annotated_value": "clear",
+        "gpt4o_score": 5
+      },
+      "coral_preciousness_grade": {
+        "annotated_value": "high",
+        "gpt4o_score": 7
+      },
+      "bleaching_state": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      },
+      "tissue_condition": {
+        "annotated_value": "intact",
+        "gpt4o_score": 9
+      },
+      "algal_overgrowth": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      },
+      "sediment_cover": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "occlusion": {
+        "annotated_value": "none",
+        "gpt4o_score": 8
+      },
+      "neighboring_contact": {
+        "annotated_value": "['coral-rock contact']",
+        "gpt4o_score": 8
+      }
+    },
+    "concat_file": "034_Coral_7.7_Keratoisis.jpg"
+  },
+  {
+    "entry_id": "fn_44e92fa2-cb96-4924-be0b-92e1a4335044_Fish_obj1",
+    "group": "Fish",
+    "concept": "Sebastolobus",
+    "bbox": [
+      1672,
+      939,
+      128,
+      97
+    ],
+    "avg_score": 7.72,
+    "patch_file": "fn_44e92fa2-cb96-4924-be0b-92e1a4335044_Fish_obj1.jpg",
+    "image_file": "44e92fa2-cb96-4924-be0b-92e1a4335044.jpg",
+    "attributes": {
+      "species": {
+        "annotated_value": "Sebastolobus",
+        "gpt4o_score": 7
+      },
+      "diagnosis": {
+        "annotated_value": "Thorny head with elongated body, typical of Sebastinae.",
+        "gpt4o_score": 6
+      },
+      "dorsal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 8
+      },
+      "caudal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 8
+      },
+      "pectoral_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 6
+      },
+      "pelvic_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 6
+      },
+      "anal_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 6
+      },
+      "adipose_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 7
+      },
+      "barbel": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "body_shape_lateral": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 8
+      },
+      "type_of_eyes": {
+        "annotated_value": "normal",
+        "gpt4o_score": 8
+      },
+      "cross_section": {
+        "annotated_value": "circular",
+        "gpt4o_score": 7
+      },
+      "dorsal_head_profile": {
+        "annotated_value": "rounded",
+        "gpt4o_score": 8
+      },
+      "color": {
+        "annotated_value": "brown",
+        "gpt4o_score": 9
+      },
+      "camouflage": {
+        "annotated_value": "high",
+        "gpt4o_score": 9
+      },
+      "texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "body_damage": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      },
+      "interaction": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "035_Fish_7.7_Sebastolobus.jpg"
+  },
+  {
+    "entry_id": "fn_af54496b-3335-47ac-b925-1841472da346_Fish_obj0",
+    "group": "Fish",
+    "concept": "Sebastolobus",
+    "bbox": [
+      596,
+      336,
+      68,
+      71
+    ],
+    "avg_score": 7.72,
+    "patch_file": "fn_af54496b-3335-47ac-b925-1841472da346_Fish_obj0.jpg",
+    "image_file": "af54496b-3335-47ac-b925-1841472da346.jpg",
+    "attributes": {
+      "species": {
+        "annotated_value": "Sebastolobus",
+        "gpt4o_score": 6
+      },
+      "diagnosis": {
+        "annotated_value": "Fusiform body, reddish coloration.",
+        "gpt4o_score": 7
+      },
+      "dorsal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 8
+      },
+      "caudal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 8
+      },
+      "pectoral_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 7
+      },
+      "pelvic_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 7
+      },
+      "anal_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 7
+      },
+      "adipose_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 7
+      },
+      "barbel": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "body_shape_lateral": {
+        "annotated_value": "fusiform",
+        "gpt4o_score": 8
+      },
+      "type_of_eyes": {
+        "annotated_value": "normal",
+        "gpt4o_score": 8
+      },
+      "cross_section": {
+        "annotated_value": "circular",
+        "gpt4o_score": 7
+      },
+      "dorsal_head_profile": {
+        "annotated_value": "rounded",
+        "gpt4o_score": 8
+      },
+      "color": {
+        "annotated_value": "reddish",
+        "gpt4o_score": 9
+      },
+      "camouflage": {
+        "annotated_value": "low",
+        "gpt4o_score": 8
+      },
+      "texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "body_damage": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "interaction": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      }
+    },
+    "concat_file": "036_Fish_7.7_Sebastolobus.jpg"
+  },
+  {
+    "entry_id": "fn_4678bd2d-3e35-43dc-b249-3be343740663_Echinoderms_obj6",
+    "group": "Echinoderms",
+    "concept": "Paelopatides confundens",
+    "bbox": [
+      1561,
+      860,
+      73,
+      123
+    ],
+    "avg_score": 7.73,
+    "patch_file": "fn_4678bd2d-3e35-43dc-b249-3be343740663_Echinoderms_obj6.jpg",
+    "image_file": "4678bd2d-3e35-43dc-b249-3be343740663.jpg",
+    "attributes": {
+      "echinoderm_group": {
+        "annotated_value": "sea star",
+        "gpt4o_score": 6
+      },
+      "body_symmetry": {
+        "annotated_value": "radial",
+        "gpt4o_score": 8
+      },
+      "overall_body_form": {
+        "annotated_value": "star-like",
+        "gpt4o_score": 5
+      },
+      "arm_presence_form": {
+        "annotated_value": "no arms visible",
+        "gpt4o_score": 7
+      },
+      "central_disc_prominence": {
+        "annotated_value": "strong",
+        "gpt4o_score": 6
+      },
+      "spine_development": {
+        "annotated_value": "none obvious",
+        "gpt4o_score": 9
+      },
+      "tube_feet_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 10
+      },
+      "body_inflation": {
+        "annotated_value": "flattened",
+        "gpt4o_score": 8
+      },
+      "surface_texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 9
+      },
+      "dominant_color": {
+        "annotated_value": "black",
+        "gpt4o_score": 7
+      },
+      "substrate_attachment": {
+        "annotated_value": "resting on substrate",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "037_Echinoderms_7.7_Paelopatides_confundens.jpg"
+  },
+  {
+    "entry_id": "fn_56b78b17-6eea-476b-b5d4-a84478c51a7c_Echinoderms_obj0",
+    "group": "Echinoderms",
+    "concept": "Paelopatides confundens",
+    "bbox": [
+      168,
+      217,
+      390,
+      172
+    ],
+    "avg_score": 7.75,
+    "patch_file": "fn_56b78b17-6eea-476b-b5d4-a84478c51a7c_Echinoderms_obj0.jpg",
+    "image_file": "56b78b17-6eea-476b-b5d4-a84478c51a7c.jpg",
+    "attributes": {
+      "echinoderm_group": {
+        "annotated_value": "sea cucumber",
+        "gpt4o_score": 8
+      },
+      "body_symmetry": {
+        "annotated_value": "bilateral-like elongate",
+        "gpt4o_score": 9
+      },
+      "overall_body_form": {
+        "annotated_value": "disk-like",
+        "gpt4o_score": 4
+      },
+      "arm_presence_form": {
+        "annotated_value": "no arms visible",
+        "gpt4o_score": 9
+      },
+      "arm_count_coarse": {
+        "annotated_value": "many",
+        "gpt4o_score": 3
+      },
+      "central_disc_prominence": {
+        "annotated_value": "weak",
+        "gpt4o_score": 6
+      },
+      "spine_development": {
+        "annotated_value": "none obvious",
+        "gpt4o_score": 9
+      },
+      "tube_feet_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 10
+      },
+      "body_inflation": {
+        "annotated_value": "flattened",
+        "gpt4o_score": 8
+      },
+      "surface_texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 9
+      },
+      "dominant_color": {
+        "annotated_value": "brown",
+        "gpt4o_score": 8
+      },
+      "substrate_attachment": {
+        "annotated_value": "resting on substrate",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "038_Echinoderms_7.8_Paelopatides_confundens.jpg"
+  },
+  {
+    "entry_id": "fn_7cae14ca-4da4-4a51-9fff-17eb6d8fd0b2_Crustaceans_obj0",
+    "group": "Crustaceans",
+    "concept": "Plesionika",
+    "bbox": [
+      1398,
+      163,
+      104,
+      50
+    ],
+    "avg_score": 7.77,
+    "patch_file": "fn_7cae14ca-4da4-4a51-9fff-17eb6d8fd0b2_Crustaceans_obj0.jpg",
+    "image_file": "7cae14ca-4da4-4a51-9fff-17eb6d8fd0b2.jpg",
+    "attributes": {
+      "crustacean_group": {
+        "annotated_value": "amphipod-like",
+        "gpt4o_score": 6
+      },
+      "body_plan": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 8
+      },
+      "carapace_shape": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 8
+      },
+      "rostrum_prominence": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "cheliped_development": {
+        "annotated_value": "none obvious",
+        "gpt4o_score": 9
+      },
+      "leg_form": {
+        "annotated_value": "swimming paddles",
+        "gpt4o_score": 7
+      },
+      "abdomen_exposure": {
+        "annotated_value": "partly tucked",
+        "gpt4o_score": 7
+      },
+      "body_segmentation_visibility": {
+        "annotated_value": "partial",
+        "gpt4o_score": 6
+      },
+      "antenna_prominence": {
+        "annotated_value": "not obvious",
+        "gpt4o_score": 6
+      },
+      "surface_armature": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "dominant_color": {
+        "annotated_value": "brown",
+        "gpt4o_score": 9
+      },
+      "shell_occupation": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      },
+      "posture": {
+        "annotated_value": "buried-partial",
+        "gpt4o_score": 8
+      }
+    },
+    "concat_file": "039_Crustaceans_7.8_Plesionika.jpg"
+  },
+  {
+    "entry_id": "fn_399462a8-aa06-4454-a578-3272e99d7cb5_Crustaceans_obj0",
+    "group": "Crustaceans",
+    "concept": "Stenocionops spinimanus",
+    "bbox": [
+      126,
+      1072,
+      262,
+      111
+    ],
+    "avg_score": 7.77,
+    "patch_file": "fn_399462a8-aa06-4454-a578-3272e99d7cb5_Crustaceans_obj0.jpg",
+    "image_file": "399462a8-aa06-4454-a578-3272e99d7cb5.jpg",
+    "attributes": {
+      "crustacean_group": {
+        "annotated_value": "amphipod-like",
+        "gpt4o_score": 6
+      },
+      "body_plan": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 7
+      },
+      "carapace_shape": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 7
+      },
+      "rostrum_prominence": {
+        "annotated_value": "short",
+        "gpt4o_score": 8
+      },
+      "cheliped_development": {
+        "annotated_value": "none obvious",
+        "gpt4o_score": 9
+      },
+      "leg_form": {
+        "annotated_value": "walking legs",
+        "gpt4o_score": 8
+      },
+      "abdomen_exposure": {
+        "annotated_value": "partly tucked",
+        "gpt4o_score": 7
+      },
+      "body_segmentation_visibility": {
+        "annotated_value": "partial",
+        "gpt4o_score": 6
+      },
+      "antenna_prominence": {
+        "annotated_value": "short",
+        "gpt4o_score": 7
+      },
+      "surface_armature": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "dominant_color": {
+        "annotated_value": "translucent",
+        "gpt4o_score": 9
+      },
+      "shell_occupation": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      },
+      "posture": {
+        "annotated_value": "resting",
+        "gpt4o_score": 9
+      }
+    },
+    "concat_file": "040_Crustaceans_7.8_Stenocionops_spinimanus.jpg"
+  },
+  {
+    "entry_id": "fn_b88e13ce-abf5-42a7-aaad-d74c052d8371_Crustaceans_obj1",
+    "group": "Crustaceans",
+    "concept": "Eualus macrophthalmus",
+    "bbox": [
+      211,
+      512,
+      64,
+      64
+    ],
+    "avg_score": 7.77,
+    "patch_file": "fn_b88e13ce-abf5-42a7-aaad-d74c052d8371_Crustaceans_obj1.jpg",
+    "image_file": "b88e13ce-abf5-42a7-aaad-d74c052d8371.jpg",
+    "attributes": {
+      "crustacean_group": {
+        "annotated_value": "amphipod-like",
+        "gpt4o_score": 7
+      },
+      "body_plan": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 8
+      },
+      "carapace_shape": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 8
+      },
+      "rostrum_prominence": {
+        "annotated_value": "short",
+        "gpt4o_score": 7
+      },
+      "cheliped_development": {
+        "annotated_value": "none obvious",
+        "gpt4o_score": 8
+      },
+      "leg_form": {
+        "annotated_value": "walking legs",
+        "gpt4o_score": 8
+      },
+      "abdomen_exposure": {
+        "annotated_value": "partly tucked",
+        "gpt4o_score": 7
+      },
+      "body_segmentation_visibility": {
+        "annotated_value": "partial",
+        "gpt4o_score": 6
+      },
+      "antenna_prominence": {
+        "annotated_value": "short",
+        "gpt4o_score": 6
+      },
+      "surface_armature": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "dominant_color": {
+        "annotated_value": "brown",
+        "gpt4o_score": 9
+      },
+      "shell_occupation": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      },
+      "posture": {
+        "annotated_value": "resting",
+        "gpt4o_score": 9
+      }
+    },
+    "concat_file": "041_Crustaceans_7.8_Eualus_macrophthalmus.jpg"
+  },
+  {
+    "entry_id": "cvqa_44026219501.jpg_Coral_obj0",
+    "group": "Coral",
+    "concept": "Montipora",
+    "bbox": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "avg_score": 7.81,
+    "patch_file": "44026219501.jpg",
+    "image_file": "44026219501.jpg",
+    "attributes": {
+      "coral_group": {
+        "annotated_value": "hard coral",
+        "gpt4o_score": 8
+      },
+      "growth_form": {
+        "annotated_value": "massive",
+        "gpt4o_score": 6
+      },
+      "growth_outline_type": {
+        "annotated_value": "irregular",
+        "gpt4o_score": 7
+      },
+      "coloniality": {
+        "annotated_value": "colonial",
+        "gpt4o_score": 8
+      },
+      "colony_size": {
+        "annotated_value": "small",
+        "gpt4o_score": 7
+      },
+      "corallite_arrangement": {
+        "annotated_value": "irregular",
+        "gpt4o_score": 6
+      },
+      "color": {
+        "annotated_value": "brown",
+        "gpt4o_score": 9
+      },
+      "colony_relief": {
+        "annotated_value": "low",
+        "gpt4o_score": 7
+      },
+      "surface_texture": {
+        "annotated_value": "rough",
+        "gpt4o_score": 8
+      },
+      "corallite_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 8
+      },
+      "bleaching_state": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "tissue_condition": {
+        "annotated_value": "intact",
+        "gpt4o_score": 8
+      },
+      "algal_overgrowth": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "sediment_cover": {
+        "annotated_value": "partial",
+        "gpt4o_score": 8
+      },
+      "occlusion": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "neighboring_contact": {
+        "annotated_value": "['coral-rock contact']",
+        "gpt4o_score": 8
+      }
+    },
+    "concat_file": "042_Coral_7.8_Montipora.jpg"
+  },
+  {
+    "entry_id": "fn_92845e1f-2951-4f87-bd5d-9795c3d862d9_Other_Creatures_obj0",
+    "group": "Other Creatures",
+    "concept": "Tunicata",
+    "bbox": [
+      1833,
+      923,
+      62,
+      52
+    ],
+    "avg_score": 7.82,
+    "patch_file": "fn_92845e1f-2951-4f87-bd5d-9795c3d862d9_Other_Creatures_obj0.jpg",
+    "image_file": "92845e1f-2951-4f87-bd5d-9795c3d862d9.jpg",
+    "attributes": {
+      "creature_type": {
+        "annotated_value": "tunicate-like",
+        "gpt4o_score": 7
+      },
+      "visual_diagnosis": {
+        "annotated_value": "Object appears as a soft-bodied, sessile marine invertebrate, likely attached to the substrate, with an indistinct outline due to low resolution and blurriness.",
+        "gpt4o_score": 8
+      },
+      "body_shape": {
+        "annotated_value": "irregular",
+        "gpt4o_score": 8
+      },
+      "symmetry": {
+        "annotated_value": "asymmetrical",
+        "gpt4o_score": 7
+      },
+      "body_organization": {
+        "annotated_value": "continuous soft body",
+        "gpt4o_score": 8
+      },
+      "appendage_type": {
+        "annotated_value": "none obvious",
+        "gpt4o_score": 9
+      },
+      "hard_structure_presence": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "repetition_modularity": {
+        "annotated_value": "not obvious",
+        "gpt4o_score": 8
+      },
+      "dominant_color": {
+        "annotated_value": "multicolored",
+        "gpt4o_score": 6
+      },
+      "color_pattern": {
+        "annotated_value": "patchy",
+        "gpt4o_score": 7
+      },
+      "surface_texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 7
+      },
+      "transparency": {
+        "annotated_value": "opaque",
+        "gpt4o_score": 8
+      },
+      "surface_relief": {
+        "annotated_value": "low",
+        "gpt4o_score": 7
+      },
+      "camouflage_visibility": {
+        "annotated_value": "medium",
+        "gpt4o_score": 8
+      },
+      "body_posture": {
+        "annotated_value": "attached",
+        "gpt4o_score": 9
+      },
+      "substrate_relation": {
+        "annotated_value": "['attached to substrate']",
+        "gpt4o_score": 9
+      },
+      "occlusion": {
+        "annotated_value": "partial",
+        "gpt4o_score": 8
+      }
+    },
+    "concat_file": "043_Other Creatures_7.8_Tunicata.jpg"
+  },
+  {
+    "entry_id": "fn_c525de92-f754-494c-b0e2-d4cd6f5ff160_Echinoderms_obj0",
+    "group": "Echinoderms",
+    "concept": "Echinocrepis rostrata",
+    "bbox": [
+      1412,
+      550,
+      238,
+      184
+    ],
+    "avg_score": 7.82,
+    "patch_file": "fn_c525de92-f754-494c-b0e2-d4cd6f5ff160_Echinoderms_obj0.jpg",
+    "image_file": "c525de92-f754-494c-b0e2-d4cd6f5ff160.jpg",
+    "attributes": {
+      "echinoderm_group": {
+        "annotated_value": "sea star",
+        "gpt4o_score": 4
+      },
+      "body_symmetry": {
+        "annotated_value": "pentaradial",
+        "gpt4o_score": 6
+      },
+      "overall_body_form": {
+        "annotated_value": "star-like",
+        "gpt4o_score": 5
+      },
+      "arm_presence_form": {
+        "annotated_value": "no arms visible",
+        "gpt4o_score": 8
+      },
+      "central_disc_prominence": {
+        "annotated_value": "strong",
+        "gpt4o_score": 7
+      },
+      "spine_development": {
+        "annotated_value": "none obvious",
+        "gpt4o_score": 9
+      },
+      "tube_feet_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 10
+      },
+      "body_inflation": {
+        "annotated_value": "flattened",
+        "gpt4o_score": 8
+      },
+      "surface_texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 9
+      },
+      "dominant_color": {
+        "annotated_value": "brown",
+        "gpt4o_score": 10
+      },
+      "substrate_attachment": {
+        "annotated_value": "partly buried",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "044_Echinoderms_7.8_Echinocrepis_rostrata.jpg"
+  },
+  {
+    "entry_id": "fn_8720a66a-0b24-47a0-b950-f01f25da3d21_Other_Creatures_obj0",
+    "group": "Other Creatures",
+    "concept": "Sabellidae",
+    "bbox": [
+      939,
+      469,
+      123,
+      99
+    ],
+    "avg_score": 7.82,
+    "patch_file": "fn_8720a66a-0b24-47a0-b950-f01f25da3d21_Other_Creatures_obj0.jpg",
+    "image_file": "8720a66a-0b24-47a0-b950-f01f25da3d21.jpg",
+    "attributes": {
+      "creature_type": {
+        "annotated_value": "worm-like",
+        "gpt4o_score": 8
+      },
+      "visual_diagnosis": {
+        "annotated_value": "Object appears as a dark, circular, mound-like structure with a central depression, likely a tube worm with its feathery branchiae retracted or obscured, resting on a rocky or sedimentary seafloor.",
+        "gpt4o_score": 9
+      },
+      "body_shape": {
+        "annotated_value": "branching",
+        "gpt4o_score": 6
+      },
+      "symmetry": {
+        "annotated_value": "radial",
+        "gpt4o_score": 8
+      },
+      "body_organization": {
+        "annotated_value": "continuous soft body",
+        "gpt4o_score": 7
+      },
+      "appendage_type": {
+        "annotated_value": "filaments",
+        "gpt4o_score": 6
+      },
+      "hard_structure_presence": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "repetition_modularity": {
+        "annotated_value": "clear repeated units",
+        "gpt4o_score": 7
+      },
+      "dominant_color": {
+        "annotated_value": "brown",
+        "gpt4o_score": 8
+      },
+      "color_pattern": {
+        "annotated_value": "mottled",
+        "gpt4o_score": 7
+      },
+      "surface_texture": {
+        "annotated_value": "fibrous",
+        "gpt4o_score": 6
+      },
+      "transparency": {
+        "annotated_value": "opaque",
+        "gpt4o_score": 9
+      },
+      "surface_relief": {
+        "annotated_value": "medium",
+        "gpt4o_score": 7
+      },
+      "camouflage_visibility": {
+        "annotated_value": "medium",
+        "gpt4o_score": 8
+      },
+      "body_posture": {
+        "annotated_value": "attached",
+        "gpt4o_score": 9
+      },
+      "substrate_relation": {
+        "annotated_value": "['attached to substrate']",
+        "gpt4o_score": 9
+      },
+      "occlusion": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "045_Other Creatures_7.8_Sabellidae.jpg"
+  },
+  {
+    "entry_id": "fn_549ca4e9-4edf-490c-a0c2-ea845fa27bda_Echinoderms_obj1",
+    "group": "Echinoderms",
+    "concept": "Scotoplanes globosa",
+    "bbox": [
+      835,
+      639,
+      266,
+      240
+    ],
+    "avg_score": 7.83,
+    "patch_file": "fn_549ca4e9-4edf-490c-a0c2-ea845fa27bda_Echinoderms_obj1.jpg",
+    "image_file": "549ca4e9-4edf-490c-a0c2-ea845fa27bda.jpg",
+    "attributes": {
+      "echinoderm_group": {
+        "annotated_value": "sea cucumber",
+        "gpt4o_score": 9
+      },
+      "body_symmetry": {
+        "annotated_value": "bilateral-like elongate",
+        "gpt4o_score": 8
+      },
+      "overall_body_form": {
+        "annotated_value": "disk-like",
+        "gpt4o_score": 6
+      },
+      "arm_presence_form": {
+        "annotated_value": "no arms visible",
+        "gpt4o_score": 7
+      },
+      "arm_count_coarse": {
+        "annotated_value": "6-10",
+        "gpt4o_score": 7
+      },
+      "central_disc_prominence": {
+        "annotated_value": "moderate",
+        "gpt4o_score": 6
+      },
+      "spine_development": {
+        "annotated_value": "none obvious",
+        "gpt4o_score": 9
+      },
+      "tube_feet_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 8
+      },
+      "body_inflation": {
+        "annotated_value": "moderate",
+        "gpt4o_score": 8
+      },
+      "surface_texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 9
+      },
+      "dominant_color": {
+        "annotated_value": "brown",
+        "gpt4o_score": 7
+      },
+      "substrate_attachment": {
+        "annotated_value": "resting on substrate",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "046_Echinoderms_7.8_Scotoplanes_globosa.jpg"
+  },
+  {
+    "entry_id": "fn_2db6d93c-22ac-43c4-a8c0-50a8cbf38514_Echinoderms_obj0",
+    "group": "Echinoderms",
+    "concept": "Echinocrepis rostrata",
+    "bbox": [
+      192,
+      417,
+      254,
+      226
+    ],
+    "avg_score": 7.83,
+    "patch_file": "fn_2db6d93c-22ac-43c4-a8c0-50a8cbf38514_Echinoderms_obj0.jpg",
+    "image_file": "2db6d93c-22ac-43c4-a8c0-50a8cbf38514.jpg",
+    "attributes": {
+      "echinoderm_group": {
+        "annotated_value": "sea star",
+        "gpt4o_score": 4
+      },
+      "body_symmetry": {
+        "annotated_value": "pentaradial",
+        "gpt4o_score": 6
+      },
+      "overall_body_form": {
+        "annotated_value": "disk-like",
+        "gpt4o_score": 8
+      },
+      "arm_presence_form": {
+        "annotated_value": "no arms visible",
+        "gpt4o_score": 9
+      },
+      "arm_count_coarse": {
+        "annotated_value": "0",
+        "gpt4o_score": 9
+      },
+      "central_disc_prominence": {
+        "annotated_value": "not applicable",
+        "gpt4o_score": 7
+      },
+      "spine_development": {
+        "annotated_value": "light",
+        "gpt4o_score": 7
+      },
+      "tube_feet_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 10
+      },
+      "body_inflation": {
+        "annotated_value": "flattened",
+        "gpt4o_score": 8
+      },
+      "surface_texture": {
+        "annotated_value": "spiny",
+        "gpt4o_score": 7
+      },
+      "dominant_color": {
+        "annotated_value": "brown",
+        "gpt4o_score": 9
+      },
+      "substrate_attachment": {
+        "annotated_value": "resting on substrate",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "047_Echinoderms_7.8_Echinocrepis_rostrata.jpg"
+  },
+  {
+    "entry_id": "fn_06777fd7-f217-4fb0-a416-43e8b39a215e_Fish_obj0",
+    "group": "Fish",
+    "concept": "Anoplopoma fimbria",
+    "bbox": [
+      1,
+      900,
+      558,
+      300
+    ],
+    "avg_score": 7.83,
+    "patch_file": "fn_06777fd7-f217-4fb0-a416-43e8b39a215e_Fish_obj0.jpg",
+    "image_file": "06777fd7-f217-4fb0-a416-43e8b39a215e.jpg",
+    "attributes": {
+      "species": {
+        "annotated_value": "Anoplopoma fimbria",
+        "gpt4o_score": 7
+      },
+      "diagnosis": {
+        "annotated_value": "Forked tail, elongated body, and smooth scales.",
+        "gpt4o_score": 8
+      },
+      "dorsal_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 6
+      },
+      "caudal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 10
+      },
+      "pectoral_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 6
+      },
+      "pelvic_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 6
+      },
+      "anal_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 6
+      },
+      "adipose_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 6
+      },
+      "barbel": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "body_shape_lateral": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 9
+      },
+      "type_of_mouth_snout": {
+        "annotated_value": "terminal mouth",
+        "gpt4o_score": 7
+      },
+      "cross_section": {
+        "annotated_value": "circular",
+        "gpt4o_score": 8
+      },
+      "dorsal_head_profile": {
+        "annotated_value": "straight",
+        "gpt4o_score": 7
+      },
+      "color": {
+        "annotated_value": "silver",
+        "gpt4o_score": 9
+      },
+      "camouflage": {
+        "annotated_value": "low",
+        "gpt4o_score": 8
+      },
+      "texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 9
+      },
+      "body_damage": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      },
+      "interaction": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "048_Fish_7.8_Anoplopoma_fimbria.jpg"
+  },
+  {
+    "entry_id": "fn_7660b081-c3a6-43b8-9a08-9388e60a4432_Fish_obj2",
+    "group": "Fish",
+    "concept": "Merluccius productus",
+    "bbox": [
+      817,
+      223,
+      331,
+      133
+    ],
+    "avg_score": 7.83,
+    "patch_file": "fn_7660b081-c3a6-43b8-9a08-9388e60a4432_Fish_obj2.jpg",
+    "image_file": "7660b081-c3a6-43b8-9a08-9388e60a4432.jpg",
+    "attributes": {
+      "species": {
+        "annotated_value": "Merluccius productus",
+        "gpt4o_score": 6
+      },
+      "diagnosis": {
+        "annotated_value": "Elongate body, silver-gray color with black speckling",
+        "gpt4o_score": 7
+      },
+      "dorsal_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "caudal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 9
+      },
+      "pectoral_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "pelvic_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "anal_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "adipose_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "barbel": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "body_shape_lateral": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 9
+      },
+      "type_of_mouth_snout": {
+        "annotated_value": "terminal mouth",
+        "gpt4o_score": 7
+      },
+      "cross_section": {
+        "annotated_value": "circular",
+        "gpt4o_score": 6
+      },
+      "dorsal_head_profile": {
+        "annotated_value": "straight",
+        "gpt4o_score": 7
+      },
+      "color": {
+        "annotated_value": "silver-gray",
+        "gpt4o_score": 8
+      },
+      "camouflage": {
+        "annotated_value": "low",
+        "gpt4o_score": 7
+      },
+      "texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "body_damage": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "interaction": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      }
+    },
+    "concat_file": "049_Fish_7.8_Merluccius_productus.jpg"
+  },
+  {
+    "entry_id": "fn_01133b90-ec63-4ba6-9fa5-1759b59eade6_Non_cephalopod_Mollusks_obj0",
+    "group": "Non-cephalopod Mollusks",
+    "concept": "Notobranchaea grandis",
+    "bbox": [
+      202,
+      2,
+      119,
+      249
+    ],
+    "avg_score": 7.83,
+    "patch_file": "fn_01133b90-ec63-4ba6-9fa5-1759b59eade6_Non_cephalopod_Mollusks_obj0.jpg",
+    "image_file": "01133b90-ec63-4ba6-9fa5-1759b59eade6.jpg",
+    "attributes": {
+      "mollusk_group": {
+        "annotated_value": "gastropod",
+        "gpt4o_score": 9
+      },
+      "shell_presence": {
+        "annotated_value": "reduced shell",
+        "gpt4o_score": 7
+      },
+      "shell_configuration": {
+        "annotated_value": "cap-like shell",
+        "gpt4o_score": 6
+      },
+      "shell_coiling_direction": {
+        "annotated_value": "not applicable",
+        "gpt4o_score": 10
+      },
+      "spire_height": {
+        "annotated_value": "low",
+        "gpt4o_score": 6
+      },
+      "aperture_shape": {
+        "annotated_value": "round",
+        "gpt4o_score": 5
+      },
+      "operculum_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 10
+      },
+      "shell_sculpture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "body_extension_degree": {
+        "annotated_value": "extended",
+        "gpt4o_score": 9
+      },
+      "body_shell_color": {
+        "annotated_value": "translucent",
+        "gpt4o_score": 10
+      },
+      "surface_gloss": {
+        "annotated_value": "translucent",
+        "gpt4o_score": 10
+      },
+      "attachment_mode": {
+        "annotated_value": "resting on substrate",
+        "gpt4o_score": 4
+      }
+    },
+    "concat_file": "050_Non-cephalopod Mollusks_7.8_Notobranchaea_grandis.jpg"
+  },
+  {
+    "entry_id": "fn_92388ec3-b468-4053-bcf2-1b8738efaadd_Crustaceans_obj0",
+    "group": "Crustaceans",
+    "concept": "Munnopsidae",
+    "bbox": [
+      356,
+      915,
+      114,
+      108
+    ],
+    "avg_score": 7.85,
+    "patch_file": "fn_92388ec3-b468-4053-bcf2-1b8738efaadd_Crustaceans_obj0.jpg",
+    "image_file": "92388ec3-b468-4053-bcf2-1b8738efaadd.jpg",
+    "attributes": {
+      "crustacean_group": {
+        "annotated_value": "amphipod-like",
+        "gpt4o_score": 7
+      },
+      "body_plan": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 8
+      },
+      "carapace_shape": {
+        "annotated_value": "oval",
+        "gpt4o_score": 8
+      },
+      "rostrum_prominence": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "cheliped_development": {
+        "annotated_value": "none obvious",
+        "gpt4o_score": 9
+      },
+      "leg_form": {
+        "annotated_value": "walking legs",
+        "gpt4o_score": 7
+      },
+      "abdomen_exposure": {
+        "annotated_value": "partly tucked",
+        "gpt4o_score": 7
+      },
+      "body_segmentation_visibility": {
+        "annotated_value": "partial",
+        "gpt4o_score": 6
+      },
+      "antenna_prominence": {
+        "annotated_value": "not obvious",
+        "gpt4o_score": 6
+      },
+      "surface_armature": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "dominant_color": {
+        "annotated_value": "translucent",
+        "gpt4o_score": 9
+      },
+      "shell_occupation": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      },
+      "posture": {
+        "annotated_value": "resting",
+        "gpt4o_score": 8
+      }
+    },
+    "concat_file": "051_Crustaceans_7.8_Munnopsidae.jpg"
+  },
+  {
+    "entry_id": "fn_39e1091b-da87-4d2a-bbe1-09c7a069f9be_Fish_obj0",
+    "group": "Fish",
+    "concept": "Anoplopoma fimbria",
+    "bbox": [
+      262,
+      789,
+      265,
+      360
+    ],
+    "avg_score": 7.89,
+    "patch_file": "fn_39e1091b-da87-4d2a-bbe1-09c7a069f9be_Fish_obj0.jpg",
+    "image_file": "39e1091b-da87-4d2a-bbe1-09c7a069f9be.jpg",
+    "attributes": {
+      "species": {
+        "annotated_value": "Anoplopoma fimbria",
+        "gpt4o_score": 7
+      },
+      "diagnosis": {
+        "annotated_value": "Large, dark-colored fish with a robust, elongated body, prominent head, and a large mouth. Dorsal fin originates behind the head, and caudal fin is forked. No visible barbels.",
+        "gpt4o_score": 8
+      },
+      "dorsal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 8
+      },
+      "caudal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 8
+      },
+      "pectoral_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 7
+      },
+      "pelvic_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 7
+      },
+      "anal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 7
+      },
+      "adipose_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "barbel": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "body_shape_lateral": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 8
+      },
+      "type_of_eyes": {
+        "annotated_value": "normal",
+        "gpt4o_score": 8
+      },
+      "type_of_mouth_snout": {
+        "annotated_value": "terminal mouth",
+        "gpt4o_score": 8
+      },
+      "cross_section": {
+        "annotated_value": "circular",
+        "gpt4o_score": 7
+      },
+      "dorsal_head_profile": {
+        "annotated_value": "rounded",
+        "gpt4o_score": 8
+      },
+      "color": {
+        "annotated_value": "black",
+        "gpt4o_score": 8
+      },
+      "camouflage": {
+        "annotated_value": "low",
+        "gpt4o_score": 7
+      },
+      "texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "body_damage": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "interaction": {
+        "annotated_value": "['none']",
+        "gpt4o_score": 9
+      }
+    },
+    "concat_file": "052_Fish_7.9_Anoplopoma_fimbria.jpg"
+  },
+  {
+    "entry_id": "fn_c5602885-ddca-4011-b207-7677edcaf0ef_Fish_obj0",
+    "group": "Fish",
+    "concept": "chimaera",
+    "bbox": [
+      2254,
+      600,
+      206,
+      228
+    ],
+    "avg_score": 7.89,
+    "patch_file": "fn_c5602885-ddca-4011-b207-7677edcaf0ef_Fish_obj0.jpg",
+    "image_file": "c5602885-ddca-4011-b207-7677edcaf0ef.jpg",
+    "attributes": {
+      "species": {
+        "annotated_value": "chimaera",
+        "gpt4o_score": 8
+      },
+      "diagnosis": {
+        "annotated_value": "Long, slender body; small eyes; elongated snout.",
+        "gpt4o_score": 7
+      },
+      "dorsal_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 6
+      },
+      "caudal_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 6
+      },
+      "pectoral_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 9
+      },
+      "pelvic_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 8
+      },
+      "anal_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 7
+      },
+      "adipose_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 7
+      },
+      "barbel": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "body_shape_lateral": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 9
+      },
+      "type_of_eyes": {
+        "annotated_value": "small-eyed",
+        "gpt4o_score": 8
+      },
+      "type_of_mouth_snout": {
+        "annotated_value": "elongated snout",
+        "gpt4o_score": 9
+      },
+      "cross_section": {
+        "annotated_value": "circular",
+        "gpt4o_score": 7
+      },
+      "dorsal_head_profile": {
+        "annotated_value": "straight",
+        "gpt4o_score": 7
+      },
+      "color": {
+        "annotated_value": "dark",
+        "gpt4o_score": 8
+      },
+      "camouflage": {
+        "annotated_value": "low",
+        "gpt4o_score": 7
+      },
+      "texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "body_damage": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      },
+      "interaction": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "053_Fish_7.9_chimaera.jpg"
+  },
+  {
+    "entry_id": "fn_d934707e-8b3d-458b-861b-84cd003dc32a_Fish_obj2",
+    "group": "Fish",
+    "concept": "Sebastolobus",
+    "bbox": [
+      811,
+      481,
+      67,
+      88
+    ],
+    "avg_score": 7.89,
+    "patch_file": "fn_d934707e-8b3d-458b-861b-84cd003dc32a_Fish_obj2.jpg",
+    "image_file": "d934707e-8b3d-458b-861b-84cd003dc32a.jpg",
+    "attributes": {
+      "species": {
+        "annotated_value": "Sebastolobus",
+        "gpt4o_score": 7
+      },
+      "diagnosis": {
+        "annotated_value": "Thorny head, elongated body, and rough texture.",
+        "gpt4o_score": 6
+      },
+      "dorsal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 8
+      },
+      "caudal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 8
+      },
+      "pectoral_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 8
+      },
+      "pelvic_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 7
+      },
+      "anal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 7
+      },
+      "adipose_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "barbel": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "body_shape_lateral": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 8
+      },
+      "type_of_eyes": {
+        "annotated_value": "normal",
+        "gpt4o_score": 8
+      },
+      "type_of_mouth_snout": {
+        "annotated_value": "terminal mouth",
+        "gpt4o_score": 8
+      },
+      "cross_section": {
+        "annotated_value": "circular",
+        "gpt4o_score": 7
+      },
+      "dorsal_head_profile": {
+        "annotated_value": "convex",
+        "gpt4o_score": 7
+      },
+      "color": {
+        "annotated_value": "brown",
+        "gpt4o_score": 8
+      },
+      "camouflage": {
+        "annotated_value": "low",
+        "gpt4o_score": 7
+      },
+      "texture": {
+        "annotated_value": "rough",
+        "gpt4o_score": 8
+      },
+      "body_damage": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      },
+      "interaction": {
+        "annotated_value": "['none']",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "054_Fish_7.9_Sebastolobus.jpg"
+  },
+  {
+    "entry_id": "fn_c663bb8a-faa7-479b-9b22-8a4a69e165a3_Fish_obj0",
+    "group": "Fish",
+    "concept": "Lycodes diapterus",
+    "bbox": [
+      1532,
+      263,
+      354,
+      78
+    ],
+    "avg_score": 7.89,
+    "patch_file": "fn_c663bb8a-faa7-479b-9b22-8a4a69e165a3_Fish_obj0.jpg",
+    "image_file": "c663bb8a-faa7-479b-9b22-8a4a69e165a3.jpg",
+    "attributes": {
+      "species": {
+        "annotated_value": "Lycodes diapterus",
+        "gpt4o_score": 7
+      },
+      "diagnosis": {
+        "annotated_value": "Elongate, slender body with a long, tapering tail. Dorsal fin originates near the head. No visible barbels. Body appears uniformly dark or mottled.",
+        "gpt4o_score": 8
+      },
+      "dorsal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 8
+      },
+      "caudal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 8
+      },
+      "pectoral_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 7
+      },
+      "pelvic_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 6
+      },
+      "anal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 6
+      },
+      "adipose_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "barbel": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "body_shape_lateral": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 9
+      },
+      "type_of_eyes": {
+        "annotated_value": "small-eyed",
+        "gpt4o_score": 7
+      },
+      "type_of_mouth_snout": {
+        "annotated_value": "terminal mouth",
+        "gpt4o_score": 8
+      },
+      "cross_section": {
+        "annotated_value": "compressed",
+        "gpt4o_score": 7
+      },
+      "dorsal_head_profile": {
+        "annotated_value": "straight",
+        "gpt4o_score": 7
+      },
+      "color": {
+        "annotated_value": "dark",
+        "gpt4o_score": 8
+      },
+      "camouflage": {
+        "annotated_value": "high",
+        "gpt4o_score": 8
+      },
+      "texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "body_damage": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      },
+      "interaction": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "055_Fish_7.9_Lycodes_diapterus.jpg"
+  },
+  {
+    "entry_id": "fn_2eb95b41-550c-42de-b35f-aa6caf166f2e_Crustaceans_obj0",
+    "group": "Crustaceans",
+    "concept": "Galatheoidea",
+    "bbox": [
+      1202,
+      605,
+      102,
+      87
+    ],
+    "avg_score": 7.92,
+    "patch_file": "fn_2eb95b41-550c-42de-b35f-aa6caf166f2e_Crustaceans_obj0.jpg",
+    "image_file": "2eb95b41-550c-42de-b35f-aa6caf166f2e.jpg",
+    "attributes": {
+      "crustacean_group": {
+        "annotated_value": "shrimp-like",
+        "gpt4o_score": 8
+      },
+      "body_plan": {
+        "annotated_value": "broad crab-like",
+        "gpt4o_score": 7
+      },
+      "carapace_shape": {
+        "annotated_value": "rounded",
+        "gpt4o_score": 8
+      },
+      "rostrum_prominence": {
+        "annotated_value": "short",
+        "gpt4o_score": 8
+      },
+      "cheliped_development": {
+        "annotated_value": "none obvious",
+        "gpt4o_score": 9
+      },
+      "leg_form": {
+        "annotated_value": "walking legs",
+        "gpt4o_score": 8
+      },
+      "abdomen_exposure": {
+        "annotated_value": "partly tucked",
+        "gpt4o_score": 7
+      },
+      "body_segmentation_visibility": {
+        "annotated_value": "partial",
+        "gpt4o_score": 6
+      },
+      "antenna_prominence": {
+        "annotated_value": "not obvious",
+        "gpt4o_score": 6
+      },
+      "surface_armature": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "dominant_color": {
+        "annotated_value": "translucent",
+        "gpt4o_score": 9
+      },
+      "shell_occupation": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      },
+      "posture": {
+        "annotated_value": "resting",
+        "gpt4o_score": 9
+      }
+    },
+    "concat_file": "056_Crustaceans_7.9_Galatheoidea.jpg"
+  },
+  {
+    "entry_id": "fn_d3129172-e193-484f-be11-16bd215fe6a2_Echinoderms_obj0",
+    "group": "Echinoderms",
+    "concept": "urchin",
+    "bbox": [
+      911,
+      782,
+      250,
+      119
+    ],
+    "avg_score": 7.92,
+    "patch_file": "fn_d3129172-e193-484f-be11-16bd215fe6a2_Echinoderms_obj0.jpg",
+    "image_file": "d3129172-e193-484f-be11-16bd215fe6a2.jpg",
+    "attributes": {
+      "echinoderm_group": {
+        "annotated_value": "sea urchin",
+        "gpt4o_score": 7
+      },
+      "body_symmetry": {
+        "annotated_value": "radial",
+        "gpt4o_score": 9
+      },
+      "overall_body_form": {
+        "annotated_value": "globular",
+        "gpt4o_score": 8
+      },
+      "arm_presence_form": {
+        "annotated_value": "no arms visible",
+        "gpt4o_score": 8
+      },
+      "arm_count_coarse": {
+        "annotated_value": "5",
+        "gpt4o_score": 6
+      },
+      "central_disc_prominence": {
+        "annotated_value": "moderate",
+        "gpt4o_score": 7
+      },
+      "spine_development": {
+        "annotated_value": "strong",
+        "gpt4o_score": 9
+      },
+      "tube_feet_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 8
+      },
+      "body_inflation": {
+        "annotated_value": "flattened",
+        "gpt4o_score": 7
+      },
+      "surface_texture": {
+        "annotated_value": "spiny",
+        "gpt4o_score": 9
+      },
+      "dominant_color": {
+        "annotated_value": "white",
+        "gpt4o_score": 8
+      },
+      "substrate_attachment": {
+        "annotated_value": "clinging",
+        "gpt4o_score": 9
+      }
+    },
+    "concat_file": "057_Echinoderms_7.9_urchin.jpg"
+  },
+  {
+    "entry_id": "fn_f7432d57-955e-46c3-94d2-25c82136d2b7_Echinoderms_obj0",
+    "group": "Echinoderms",
+    "concept": "Scotoplanes globosa",
+    "bbox": [
+      1331,
+      328,
+      417,
+      375
+    ],
+    "avg_score": 7.92,
+    "patch_file": "fn_f7432d57-955e-46c3-94d2-25c82136d2b7_Echinoderms_obj0.jpg",
+    "image_file": "f7432d57-955e-46c3-94d2-25c82136d2b7.jpg",
+    "attributes": {
+      "echinoderm_group": {
+        "annotated_value": "sea cucumber",
+        "gpt4o_score": 10
+      },
+      "body_symmetry": {
+        "annotated_value": "bilateral-like elongate",
+        "gpt4o_score": 9
+      },
+      "overall_body_form": {
+        "annotated_value": "disk-like",
+        "gpt4o_score": 6
+      },
+      "arm_presence_form": {
+        "annotated_value": "no arms visible",
+        "gpt4o_score": 5
+      },
+      "arm_count_coarse": {
+        "annotated_value": "6-10",
+        "gpt4o_score": 7
+      },
+      "central_disc_prominence": {
+        "annotated_value": "moderate",
+        "gpt4o_score": 6
+      },
+      "spine_development": {
+        "annotated_value": "light",
+        "gpt4o_score": 8
+      },
+      "tube_feet_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 9
+      },
+      "body_inflation": {
+        "annotated_value": "moderate",
+        "gpt4o_score": 8
+      },
+      "surface_texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 9
+      },
+      "dominant_color": {
+        "annotated_value": "brown",
+        "gpt4o_score": 8
+      },
+      "substrate_attachment": {
+        "annotated_value": "resting on substrate",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "058_Echinoderms_7.9_Scotoplanes_globosa.jpg"
+  },
+  {
+    "entry_id": "fn_29cbe577-7790-474c-bd70-7ef776a7a181_Sponges_obj0",
+    "group": "Sponges",
+    "concept": "Asbestopluma monticola",
+    "bbox": [
+      417,
+      95,
+      102,
+      56
+    ],
+    "avg_score": 7.93,
+    "patch_file": "fn_29cbe577-7790-474c-bd70-7ef776a7a181_Sponges_obj0.jpg",
+    "image_file": "29cbe577-7790-474c-bd70-7ef776a7a181.jpg",
+    "attributes": {
+      "sponge_growth_type": {
+        "annotated_value": "encrusting sponge",
+        "gpt4o_score": 6
+      },
+      "surface_channel_diagnosis": {
+        "annotated_value": "encrusting with small channels",
+        "gpt4o_score": 6
+      },
+      "overall_body_form": {
+        "annotated_value": "massive",
+        "gpt4o_score": 7
+      },
+      "attachment_extent": {
+        "annotated_value": "locally attached",
+        "gpt4o_score": 8
+      },
+      "osculum_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 9
+      },
+      "osculum_form": {
+        "annotated_value": "not applicable",
+        "gpt4o_score": 9
+      },
+      "branch_tube_organization": {
+        "annotated_value": "single massive body",
+        "gpt4o_score": 7
+      },
+      "relief_thickness": {
+        "annotated_value": "medium",
+        "gpt4o_score": 8
+      },
+      "dominant_color": {
+        "annotated_value": "white",
+        "gpt4o_score": 9
+      },
+      "surface_porosity": {
+        "annotated_value": "high",
+        "gpt4o_score": 8
+      },
+      "surface_texture": {
+        "annotated_value": "porous",
+        "gpt4o_score": 8
+      },
+      "epibiont_cover": {
+        "annotated_value": "light",
+        "gpt4o_score": 7
+      },
+      "substrate_relation": {
+        "annotated_value": "['attached to rock']",
+        "gpt4o_score": 9
+      },
+      "occlusion": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "059_Sponges_7.9_Asbestopluma_monticola.jpg"
+  },
+  {
+    "entry_id": "fn_3b2c35c9-35d5-4353-8663-e346bc6d915e_Sponges_obj0",
+    "group": "Sponges",
+    "concept": "sponge",
+    "bbox": [
+      3121,
+      1098,
+      101,
+      289
+    ],
+    "avg_score": 7.93,
+    "patch_file": "fn_3b2c35c9-35d5-4353-8663-e346bc6d915e_Sponges_obj0.jpg",
+    "image_file": "3b2c35c9-35d5-4353-8663-e346bc6d915e.jpg",
+    "attributes": {
+      "sponge_growth_type": {
+        "annotated_value": "encrusting sponge",
+        "gpt4o_score": 7
+      },
+      "surface_channel_diagnosis": {
+        "annotated_value": "encrusting surface with small pores",
+        "gpt4o_score": 6
+      },
+      "overall_body_form": {
+        "annotated_value": "encrusting",
+        "gpt4o_score": 7
+      },
+      "attachment_extent": {
+        "annotated_value": "widely encrusting",
+        "gpt4o_score": 8
+      },
+      "osculum_visibility": {
+        "annotated_value": "not visible",
+        "gpt4o_score": 9
+      },
+      "osculum_form": {
+        "annotated_value": "not applicable",
+        "gpt4o_score": 10
+      },
+      "branch_tube_organization": {
+        "annotated_value": "single massive body",
+        "gpt4o_score": 8
+      },
+      "relief_thickness": {
+        "annotated_value": "low",
+        "gpt4o_score": 7
+      },
+      "dominant_color": {
+        "annotated_value": "greenish",
+        "gpt4o_score": 8
+      },
+      "surface_porosity": {
+        "annotated_value": "high",
+        "gpt4o_score": 6
+      },
+      "surface_texture": {
+        "annotated_value": "porous",
+        "gpt4o_score": 7
+      },
+      "epibiont_cover": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "substrate_relation": {
+        "annotated_value": "['attached to rock']",
+        "gpt4o_score": 9
+      },
+      "occlusion": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      }
+    },
+    "concat_file": "060_Sponges_7.9_sponge.jpg"
+  },
+  {
+    "entry_id": "fn_4144fe7a-8f2a-4303-b74d-f117e8fe286f_Coral_obj0",
+    "group": "Coral",
+    "concept": "Pennatulacea",
+    "bbox": [
+      388,
+      869,
+      80,
+      98
+    ],
+    "avg_score": 7.94,
+    "patch_file": "fn_4144fe7a-8f2a-4303-b74d-f117e8fe286f_Coral_obj0.jpg",
+    "image_file": "4144fe7a-8f2a-4303-b74d-f117e8fe286f.jpg",
+    "attributes": {
+      "coral_group": {
+        "annotated_value": "Pennatulacea",
+        "gpt4o_score": 8
+      },
+      "growth_form": {
+        "annotated_value": "colonial",
+        "gpt4o_score": 9
+      },
+      "growth_outline_type": {
+        "annotated_value": "irregular",
+        "gpt4o_score": 8
+      },
+      "coloniality": {
+        "annotated_value": "colonial",
+        "gpt4o_score": 9
+      },
+      "colony_size": {
+        "annotated_value": "medium",
+        "gpt4o_score": 7
+      },
+      "corallite_arrangement": {
+        "annotated_value": "irregular",
+        "gpt4o_score": 7
+      },
+      "color": {
+        "annotated_value": "yellow",
+        "gpt4o_score": 6
+      },
+      "colony_relief": {
+        "annotated_value": "medium",
+        "gpt4o_score": 7
+      },
+      "surface_texture": {
+        "annotated_value": "rough",
+        "gpt4o_score": 7
+      },
+      "corallite_visibility": {
+        "annotated_value": "partial",
+        "gpt4o_score": 6
+      },
+      "coral_preciousness_grade": {
+        "annotated_value": "medium",
+        "gpt4o_score": 7
+      },
+      "bleaching_state": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      },
+      "tissue_condition": {
+        "annotated_value": "intact",
+        "gpt4o_score": 9
+      },
+      "algal_overgrowth": {
+        "annotated_value": "none",
+        "gpt4o_score": 10
+      },
+      "sediment_cover": {
+        "annotated_value": "partial",
+        "gpt4o_score": 8
+      },
+      "occlusion": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "neighboring_contact": {
+        "annotated_value": "['coral-coral contact']",
+        "gpt4o_score": 8
+      }
+    },
+    "concat_file": "061_Coral_7.9_Pennatulacea.jpg"
+  },
+  {
+    "entry_id": "cvqa_38025049401.jpg_Coral_obj0",
+    "group": "Coral",
+    "concept": "Montipora",
+    "bbox": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "avg_score": 7.94,
+    "patch_file": "38025049401.jpg",
+    "image_file": "38025049401.jpg",
+    "attributes": {
+      "coral_group": {
+        "annotated_value": "hard coral",
+        "gpt4o_score": 9
+      },
+      "growth_form": {
+        "annotated_value": "encrusting",
+        "gpt4o_score": 8
+      },
+      "growth_outline_type": {
+        "annotated_value": "irregular",
+        "gpt4o_score": 8
+      },
+      "coloniality": {
+        "annotated_value": "colonial",
+        "gpt4o_score": 9
+      },
+      "colony_size": {
+        "annotated_value": "small",
+        "gpt4o_score": 7
+      },
+      "corallite_arrangement": {
+        "annotated_value": "sparse",
+        "gpt4o_score": 6
+      },
+      "color": {
+        "annotated_value": "white",
+        "gpt4o_score": 8
+      },
+      "colony_relief": {
+        "annotated_value": "low",
+        "gpt4o_score": 7
+      },
+      "surface_texture": {
+        "annotated_value": "rough",
+        "gpt4o_score": 8
+      },
+      "corallite_visibility": {
+        "annotated_value": "partial",
+        "gpt4o_score": 6
+      },
+      "bleaching_state": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "tissue_condition": {
+        "annotated_value": "intact",
+        "gpt4o_score": 8
+      },
+      "algal_overgrowth": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "sediment_cover": {
+        "annotated_value": "partial",
+        "gpt4o_score": 8
+      },
+      "occlusion": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "neighboring_contact": {
+        "annotated_value": "['coral-rock contact']",
+        "gpt4o_score": 8
+      }
+    },
+    "concat_file": "062_Coral_7.9_Montipora.jpg"
+  },
+  {
+    "entry_id": "fn_266da31c-7d74-4e87-be25-89616a92cac7_Fish_obj2",
+    "group": "Fish",
+    "concept": "Anoplopoma fimbria",
+    "bbox": [
+      1042,
+      1078,
+      319,
+      122
+    ],
+    "avg_score": 7.95,
+    "patch_file": "fn_266da31c-7d74-4e87-be25-89616a92cac7_Fish_obj2.jpg",
+    "image_file": "266da31c-7d74-4e87-be25-89616a92cac7.jpg",
+    "attributes": {
+      "species": {
+        "annotated_value": "Anoplopoma fimbria",
+        "gpt4o_score": 7
+      },
+      "diagnosis": {
+        "annotated_value": "Dark, elongated body with a prominent dorsal fin and a long, slender tail fin; lacks barbels; typical sablefish morphology.",
+        "gpt4o_score": 8
+      },
+      "dorsal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 9
+      },
+      "caudal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 9
+      },
+      "pectoral_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 8
+      },
+      "pelvic_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 7
+      },
+      "anal_fin": {
+        "annotated_value": "present",
+        "gpt4o_score": 7
+      },
+      "adipose_fin": {
+        "annotated_value": "absent",
+        "gpt4o_score": 8
+      },
+      "barbel": {
+        "annotated_value": "absent",
+        "gpt4o_score": 9
+      },
+      "body_shape_lateral": {
+        "annotated_value": "elongate",
+        "gpt4o_score": 8
+      },
+      "type_of_eyes": {
+        "annotated_value": "normal",
+        "gpt4o_score": 8
+      },
+      "type_of_mouth_snout": {
+        "annotated_value": "terminal mouth",
+        "gpt4o_score": 8
+      },
+      "cross_section": {
+        "annotated_value": "oval",
+        "gpt4o_score": 7
+      },
+      "dorsal_head_profile": {
+        "annotated_value": "straight",
+        "gpt4o_score": 7
+      },
+      "color": {
+        "annotated_value": "dark",
+        "gpt4o_score": 8
+      },
+      "camouflage": {
+        "annotated_value": "medium",
+        "gpt4o_score": 7
+      },
+      "texture": {
+        "annotated_value": "smooth",
+        "gpt4o_score": 8
+      },
+      "body_damage": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      },
+      "interaction": {
+        "annotated_value": "none",
+        "gpt4o_score": 9
+      }
+    },
+    "concat_file": "063_Fish_8.0_Anoplopoma_fimbria.jpg"
+  }
+]
