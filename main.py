@@ -208,7 +208,7 @@ def main():
     st.sidebar.subheader("数据导出 (管理员)")
     # 简单的密码保护，防止普通同学误下
     admin_code = st.sidebar.text_input("输入管理员口令下载全员数据", type="password")
-    if admin_code == "admin123": # 这里设置你的口令
+    if admin_code == "admin422": # 这里设置你的口令
         xlsx_data = export_all_to_excel()
         if xlsx_data:
             st.sidebar.download_button(
@@ -236,7 +236,7 @@ def main():
     st.markdown('<div class="sticky-container">', unsafe_allow_html=True)
     st.write(f"**任务编号**: {item['entry_id']} | **当前进度**: {st.session_state.current_idx + 1}/{len(data)}")
     
-    concat_path = os.path.join(IMAGE_FOLDER, item['concat_file'])
+    concat_path = os.path.join(item['concat_file'])
     if os.path.exists(concat_path):
         st.image(concat_path, use_container_width=True)
     else:
