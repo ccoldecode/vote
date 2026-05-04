@@ -8,7 +8,7 @@ from io import BytesIO
 
 # --- 配置区 ---
 JSON_PATH = "review_annotations.json"
-IMAGE_FOLDER = ""
+IMAGE_FOLDER = "concat_images"
 DB_PATH = "test_results.db"
 
 # 属性翻译字典 (保持不变，此处省略部分以节省篇幅，建议保留你原有的完整字典)
@@ -121,8 +121,9 @@ def save_result(student_id, entry_id, attr_results):
         conn = sqlite3.connect(DB_PATH)
         c = conn.cursor()
         for key, val in attr_results.items():
+            # 这里的 val['value'] 现在会存入 A/B/C/D
             c.execute('''INSERT OR REPLACE INTO results VALUES (?, ?, ?, ?, ?)''',
-                    (student_id, entry_id, key, val['value'], val['modified']))
+                      (student_id, entry_id, key, val['value'], val['modified']))
         conn.commit()
         conn.close()
 
@@ -161,7 +162,7 @@ def export_all_to_excel():
 def main():
     st.set_page_config(page_title="水下目标属性校对系统", layout="wide")
     
-    # CSS 注入：确保图片置顶和样式美化
+    # CSS 注入：确保图片置顶和样式美化 (已注释部分保留)
     # st.markdown("""
     #     <style>
     #     .sticky-container {
@@ -241,6 +242,15 @@ def main():
         st.image(concat_path, use_container_width=True)
     else:
         st.warning(f"图片未找到: {item['concat_file']}")
+        
+    # --- 增加：在图片下方显示评价标准 ---
+    st.info("""
+    **评价标准：**
+    * **A**: 属性标注基本准确，能够较好地反映视觉特征，与图片展示内容相对一致；即使存在少量瑕疵，但对目标的整体理解影响有限。
+    * **B**: 属性标注大体正确，能够反映目标的主要视觉特征，与图片展示内容大体一致；虽存在一定偏差、遗漏或局部不一致，但整体仍能支持对目标的基本理解，具有参考价值。
+    * **C**: 属性标注部分正确，只能反映目标的少数主要特征；存在较多偏差、遗漏或不一致，对目标理解已造成较明显影响，整体参考价值有限。
+    * **D**: 属性标注整体较差，与图片展示特征不符的内容较多，存在多项明显错误、较大遗漏或严重内部冲突，已不能可靠反映该目标的真实视觉属性。
+    """)
     st.markdown('</div>', unsafe_allow_html=True)
 
     # --- 7. 属性校对区 ---
@@ -260,17 +270,15 @@ def main():
                 orig = str(info['annotated_value'])
                 st.caption(f"模型初筛值: {orig}")
                 
+                # 修改点：选项变为 ABCD，且直接作为评分结果保存，不再提供文本输入框
                 choice = st.radio(
-                    f"选择_{key}", ["保留", "修改"], 
+                    f"评分_{key}", ["A", "B", "C", "D"], 
                     horizontal=True, key=f"r_{item['entry_id']}_{key}",
                     label_visibility="collapsed"
                 )
                 
-                if choice == "修改":
-                    new_val = st.text_input("请输入修正值：", value=orig, key=f"i_{item['entry_id']}_{key}")
-                    temp_results[key] = {"value": new_val, "modified": 1}
-                else:
-                    temp_results[key] = {"value": orig, "modified": 0}
+                # 保存用户的评分选项到结果中
+                temp_results[key] = {"value": choice, "modified": 0}
 
     # --- 8. 提交按钮 ---
     st.divider()
