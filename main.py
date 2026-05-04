@@ -217,7 +217,7 @@ def main():
 
     # 1. 登录
     if 'student_id' not in st.session_state:
-        st.title("🌊 水下目标标注质量评估")
+        st.title("水下目标标注质量评估")
         sid = st.text_input("请输入学号：")
         if st.button("开始评审"):
             if sid:
@@ -281,7 +281,7 @@ def main():
 
     # --- 7. 属性内容展示区 ---
     st.write("---")
-    st.subheader(f"🔍 标注详情 (目标: {item['concept']})")
+    st.subheader(f"标注详情 (目标: {item['concept']})")
     
     attrs = item['attributes']
     cols_num = 4
