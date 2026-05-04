@@ -12,47 +12,175 @@ IMAGE_FOLDER = "concat_images"
 DB_PATH = "test_results.db"
 
 # 属性翻译字典 (保持不变，此处省略部分以节省篇幅，建议保留你原有的完整字典)
+# --- 补全后的全量属性翻译字典 ---
 TRANSLATIONS = {
-    # 珊瑚类 (Coral) 相关
+    # 1. 鱼类 (Fish)
+    "species": "物种名称",
+    "diagnosis": "识别特征描述",
+    "dorsal_fin": "背鳍",
+    "caudal_fin": "尾鳍",
+    "pectoral_fin": "胸鳍",
+    "pelvic_fin": "腹鳍",
+    "anal_fin": "臀鳍",
+    "adipose_fin": "脂鳍",
+    "barbel": "口须",
+    "body_shape_lateral": "侧面体型",
+    "type_of_eyes": "眼睛类型",
+    "type_of_mouth_snout": "口吻类型",
+    "cross_section": "身体横截面",
+    "dorsal_head_profile": "头部背侧轮廓",
+    "type_of_scales": "鳞片类型",
+    "color": "颜色",
+    "camouflage": "伪装程度",
+    "texture": "表面纹理",
+    "body_damage": "身体损伤",
+    "interaction": "交互行为",
+
+    # 2. 珊瑚 (Coral)
     "coral_group": "珊瑚群组",
     "growth_form": "生长形态",
     "growth_outline_type": "生长轮廓类型",
     "coloniality": "群体性",
     "colony_size": "群体大小",
     "corallite_arrangement": "珊瑚虫排列",
-    "colony_relief": "群体起伏/立体感",
+    "corallite_opening_shape": "珊瑚虫开口形状",
+    "colony_relief": "群体起伏",
     "corallite_visibility": "珊瑚虫可见度",
     "coral_preciousness_grade": "珊瑚名贵等级",
     "bleaching_state": "白化状态",
-    
-    # 刺胞动物 (Cnidaria) 相关
+    "tissue_condition": "组织状态",
+    "algal_overgrowth": "藻类覆盖",
+    "sediment_cover": "沉积物覆盖",
+    "neighboring_contact": "邻近接触",
+
+    # 3. 头足类 (Cephalopods)
+    "cephalopod_group": "头足类群组",
+    "body_form": "身体形态",
+    "mantle_shape": "外套膜形状",
+    "fin_presence_placement": "鳍的存在与位置",
+    "arm_configuration": "腕足配置",
+    "tentacle_presence": "触腕是否存在",
+    "sucker_visibility_type": "吸盘可见性与类型",
+    "webbing_extent": "腕间膜程度",
+    "head_to_mantle_proportion": "头与外套膜比例",
+    "dominant_color": "主导颜色",
+    "skin_pattern": "皮肤斑纹",
+    "skin_relief": "皮肤起伏",
+    "camouflage_visibility": "伪装可见性",
+    "posture": "姿态",
+
+    # 4. 甲壳类 (Crustaceans)
+    "crustacean_group": "甲壳类群组",
+    "body_plan": "身体结构",
+    "carapace_shape": "头胸甲形状",
+    "rostrum_prominence": "额角显著度",
+    "cheliped_development": "螯足发育情况",
+    "leg_form": "步足形态",
+    "abdomen_exposure": "腹部暴露情况",
+    "body_segmentation_visibility": "身体分节可见度",
+    "antenna_prominence": "触角显著度",
+    "surface_armature": "表面甲胄/刺瘤",
+    "pattern_type": "斑纹类型",
+    "shell_occupation": "寄居情况",
+
+    # 5. 棘皮动物 (Echinoderms)
+    "echinoderm_group": "棘皮动物群组",
+    "body_symmetry": "身体对称性",
+    "overall_body_form": "整体体型",
+    "arm_presence_form": "腕足存在形式",
+    "arm_count_coarse": "腕足数量(粗略)",
+    "central_disc_prominence": "中央盘显著度",
+    "spine_development": "棘刺发育",
+    "tube_feet_visibility": "管足可见度",
+    "body_inflation": "身体膨胀度",
+    "substrate_attachment": "基质附着方式",
+
+    # 6. 非头足类软体动物 (Non-cephalopod Mollusks)
+    "mollusk_group": "软体动物群组",
+    "shell_presence": "贝壳存在情况",
+    "shell_configuration": "贝壳构造",
+    "shell_coiling_direction": "螺壳旋向",
+    "spire_height": "螺塔高度",
+    "aperture_shape": "壳口形状",
+    "operculum_visibility": "厣/口盖可见度",
+    "shell_sculpture": "贝壳雕纹",
+    "body_extension_degree": "身体伸出程度",
+    "body_shell_color": "体/壳颜色",
+    "surface_gloss": "表面光泽",
+    "attachment_mode": "附着方式",
+
+    # 7. 其他刺胞动物 (Cnidaria_other)
     "cnidarian_type": "刺胞动物类型",
     "tentacle_arrangement_diagnosis": "触手排列判定",
-    "body_column_visibility": "体柱可见度",
-    "tentacle_prominence": "触手显著度",
+    "symmetry_type": "对称类型",
+    "bell_presence": "伞部是否存在",
     "tentacle_form": "触手形态",
     "oral_arm_presence": "口腕是否存在",
     "colony_organization": "群体组织形式",
     "transparency": "透明度",
-    "color_pattern": "颜色斑纹模式",
-    "bell_body_integrity": "伞部完整性",
-    
-    # 棘皮动物 (Echinoderm) 相关
-    "echinoderm_group": "棘皮动物细分群",
-    "body_symmetry": "身体对称性",
-    "arm_presence_form": "腕足存在形式",
-    "arm_count_coarse": "腕足数量(粗略)",
-    "central_disc_prominence": "中央盘显著度",
-    "spine_development": "刺/棘发育情况",
-    "tube_feet_visibility": "管足可见度",
-    "body_inflation": "身体膨胀/充盈度",
-    
-    # 通用属性
+    "color_pattern": "颜色模式",
+    "bell_body_integrity": "伞部/身体完整性",
+
+    # 8. 海绵 (Sponges)
+    "sponge_growth_type": "海绵生长类型",
+    "surface_channel_diagnosis": "表面孔道判定",
+    "attachment_extent": "附着程度",
+    "osculum_visibility": "出水孔可见度",
+    "osculum_form": "出水孔形态",
+    "branch_tube_organization": "分枝/管状组织",
+    "relief_thickness": "起伏厚度",
+    "surface_porosity": "表面孔隙度",
+    "edge_form": "边缘形态",
+    "epibiont_cover": "附生生物覆盖",
+    "substrate_relation": "基质关系",
+
+    # 9. 其他生物 (Other Creatures)
+    "creature_type": "生物类型",
+    "visual_diagnosis": "视觉判定",
+    "body_shape": "体型",
+    "symmetry": "对称性",
+    "body_organization": "身体组织",
+    "appendage_type": "附肢类型",
+    "hard_structure_presence": "硬质结构是否存在",
+    "repetition_modularity": "重复性/模块化",
+    "surface_relief": "表面起伏",
+    "body_posture": "身体姿态",
+
+    # 10. 人工制品 (Artificial Objects)
+    "object_category": "物体类别",
+    "material_type": "材料类型",
+    "object_form": "物体形态",
+    "shape": "形状",
+    "size": "大小",
+    "entanglement_potential": "缠绕风险",
+    "damage_state": "损伤状态",
+    "biofouling_level": "生物附着程度",
+    "sediment_embedment": "沉积物埋没程度",
+    "functional_status": "功能状态",
+    "spatial_state": "空间状态",
+
+    # 11. 潜水员 (Human)
+    "diver_presence_type": "潜水员呈现类型",
+    "tank_presence": "气瓶是否存在",
+    "fin_presence": "脚蹼是否存在",
+    "mask_presence": "面镜是否存在",
+    "light_tool_presence": "照明/工具是否存在",
+    "suit_type": "潜水服类型",
+    "suit_description": "潜水服功能描述",
+    "motion_state": "运动状态",
+    "task_role": "任务角色",
+    "body_orientation": "身体朝向",
+    "swimming_posture": "游泳姿势",
+    "hand_gesture_type": "手势类型",
+    "pose_visibility": "姿态可见度",
+    "attention_direction": "注意力方向",
+    "buddy_proximity": "同伴距离",
+
+    # 通用/冗余
+    "occlusion": "遮挡程度",
     "surface_texture": "表面纹理",
     "dominant_color": "主导颜色",
-    "color": "颜色",
-    "substrate_attachment": "基质附着方式",
-    "concept": "物种名称",
+    "concept": "物种/概念名称",
     "entry_id": "条目ID"
 }
 
