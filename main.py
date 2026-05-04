@@ -7,7 +7,7 @@ import threading
 from io import BytesIO
 
 # --- 配置区 ---
-JSON_PATH = "review_annotations.json"
+JSON_PATH = "sample_annotations.json"
 IMAGE_FOLDER = "concat_images"
 DB_PATH = "test_results.db"
 
