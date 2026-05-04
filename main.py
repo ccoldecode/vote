@@ -253,7 +253,7 @@ def main():
     """)
     st.markdown('</div>', unsafe_allow_html=True)
 
-    # --- 7. 属性校对区 ---
+   # --- 7. 属性校对区 ---
     st.write("---")
     st.subheader(f"检测目标: {item['concept']}")
     
@@ -264,20 +264,23 @@ def main():
     attr_list = list(attrs.items())
     for i in range(0, len(attr_list), cols_num):
         cols = st.columns(cols_num)
-        for idx, (key, info) in enumerate(attr_list[i : i + cols_num]):
+        for idx, (key, val) in enumerate(attr_list[i : i + cols_num]):
             with cols[idx]:
+                # 使用翻译字典，找不到则显示原键名
                 st.markdown(f"**{TRANSLATIONS.get(key, key)}**")
-                orig = str(info['annotated_value'])
+                
+                # 直接获取 JSON 中的值作为初筛值
+                orig = str(val)
                 st.caption(f"模型初筛值: {orig}")
                 
-                # 修改点：选项变为 ABCD，且直接作为评分结果保存，不再提供文本输入框
+                # ABCD 评分选项
                 choice = st.radio(
                     f"评分_{key}", ["A", "B", "C", "D"], 
                     horizontal=True, key=f"r_{item['entry_id']}_{key}",
                     label_visibility="collapsed"
                 )
                 
-                # 保存用户的评分选项到结果中
+                # 保存结果
                 temp_results[key] = {"value": choice, "modified": 0}
 
     # --- 8. 提交按钮 ---
