@@ -13,94 +13,47 @@ DB_PATH = "test_results.db"
 
 # 属性翻译字典 (保持不变，此处省略部分以节省篇幅，建议保留你原有的完整字典)
 TRANSLATIONS = {
-    "sponge_growth_type": "海绵生长类型",
-    "surface_channel_diagnosis": "表面通道特征判定",
-    "overall_body_form": "整体形体/轮廓",
-    "attachment_extent": "附着范围/程度",
-    "osculum_visibility": "出水孔可见度",
-    "osculum_form": "出水孔形态",
-    "branch_tube_organization": "分支或管状结构组织",
-    "relief_thickness": "起伏厚度/立体感",
-    "surface_porosity": "表面孔隙率",
-    "surface_texture": "表面纹理特征",
-    "epibiont_cover": "外附生物覆盖情况",
-    "substrate_relation": "与基质的关系",
-    "occlusion": "遮挡/缺失情况",
-    "echinoderm_group": "棘皮动物细分群",
-    "body_symmetry": "身体对称性",
-    "arm_presence_form": "腕足存在形式",
-    "arm_count_coarse": "腕足数量(粗略计数)",
-    "central_disc_prominence": "中央盘显著度",
-    "spine_development": "刺/棘发育情况",
-    "tube_feet_visibility": "管足可见度",
-    "body_inflation": "身体膨胀/充盈度",
-    "substrate_attachment": "基质附着方式",
-    "crustacean_group": "甲壳类细分群",
-    "body_plan": "身体结构方案",
-    "carapace_shape": "头胸甲形状",
-    "rostrum_prominence": "额角/额剑显著度",
-    "cheliped_development": "螯足发育程度",
-    "leg_form": "步足/附肢形态",
-    "abdomen_exposure": "腹部暴露程度",
-    "body_segmentation_visibility": "身体分节清晰度",
-    "antenna_prominence": "触角显眼程度",
-    "surface_armature": "表面甲胄/附属物",
-    "shell_occupation": "外壳占据情况(如寄居)",
-    "posture": "姿态/动作",
-    "mollusk_group": "软体动物分类",
-    "shell_presence": "外壳是否存在",
-    "shell_configuration": "壳体构造(单壳/双壳等)",
-    "shell_coiling_direction": "旋壳方向",
-    "spire_height": "螺塔高度",
-    "aperture_shape": "壳口形状",
-    "operculum_visibility": "厣(壳盖)可见度",
-    "body_extension_degree": "身体伸出程度",
-    "body_shell_color": "体表/壳体颜色",
-    "surface_gloss": "表面光泽度",
-    "attachment_mode": "附着模式",
-    "species": "物种名称",
-    "diagnosis": "形态学判定特征",
-    "dorsal_fin": "背鳍特征",
-    "caudal_fin": "尾鳍形态",
-    "pectoral_fin": "胸鳍特征",
-    "pelvic_fin": "腹鳍特征",
-    "anal_fin": "臀鳍特征",
-    "adipose_fin": "脂鳍是否存在",
-    "barbel": "口须特征",
-    "body_shape_lateral": "侧面体型",
-    "type_of_eyes": "眼睛类型/位置",
-    "type_of_mouth_snout": "口吻部类型",
-    "cross_section": "横截面形状",
-    "dorsal_head_profile": "头部背侧轮廓",
-    "color": "颜色表现",
-    "camouflage": "伪装特征",
-    "texture": "质感/纹理",
-    "body_damage": "身体损伤情况",
-    "interaction": "环境交互行为",
+    # 珊瑚类 (Coral) 相关
+    "coral_group": "珊瑚群组",
+    "growth_form": "生长形态",
+    "growth_outline_type": "生长轮廓类型",
+    "coloniality": "群体性",
+    "colony_size": "群体大小",
+    "corallite_arrangement": "珊瑚虫排列",
+    "colony_relief": "群体起伏/立体感",
+    "corallite_visibility": "珊瑚虫可见度",
+    "coral_preciousness_grade": "珊瑚名贵等级",
+    "bleaching_state": "白化状态",
+    
+    # 刺胞动物 (Cnidaria) 相关
     "cnidarian_type": "刺胞动物类型",
     "tentacle_arrangement_diagnosis": "触手排列判定",
-    "body_form": "体型结构",
-    "symmetry_type": "对称类型",
-    "bell_presence": "伞部是否存在",
+    "body_column_visibility": "体柱可见度",
     "tentacle_prominence": "触手显著度",
     "tentacle_form": "触手形态",
     "oral_arm_presence": "口腕是否存在",
     "colony_organization": "群体组织形式",
     "transparency": "透明度",
     "color_pattern": "颜色斑纹模式",
-    "bell_body_integrity": "伞部整体完整性",
-    "creature_type": "生物类别",
-    "visual_diagnosis": "视觉识别判定",
-    "body_shape": "身体形状",
-    "symmetry": "对称性",
-    "body_organization": "身体组织构成",
-    "appendage_type": "附肢/延伸物类型",
-    "hard_structure_presence": "硬质结构是否存在",
-    "repetition_modularity": "重复性/模块化结构",
+    "bell_body_integrity": "伞部完整性",
+    
+    # 棘皮动物 (Echinoderm) 相关
+    "echinoderm_group": "棘皮动物细分群",
+    "body_symmetry": "身体对称性",
+    "arm_presence_form": "腕足存在形式",
+    "arm_count_coarse": "腕足数量(粗略)",
+    "central_disc_prominence": "中央盘显著度",
+    "spine_development": "刺/棘发育情况",
+    "tube_feet_visibility": "管足可见度",
+    "body_inflation": "身体膨胀/充盈度",
+    
+    # 通用属性
+    "surface_texture": "表面纹理",
     "dominant_color": "主导颜色",
-    "camouflage_visibility": "伪装可见度",
-    "body_posture": "身体姿态",
-    "surface_relief": "表面起伏特征"
+    "color": "颜色",
+    "substrate_attachment": "基质附着方式",
+    "concept": "物种名称",
+    "entry_id": "条目ID"
 }
 
 # --- 数据库与锁配置 ---
@@ -237,11 +190,13 @@ def main():
     st.markdown('<div class="sticky-container">', unsafe_allow_html=True)
     st.write(f"**任务编号**: {item['entry_id']} | **当前进度**: {st.session_state.current_idx + 1}/{len(data)}")
     
-    concat_path = os.path.join(item['concat_file'])
+    # 修改点：在这里拼接 IMAGE_FOLDER
+    concat_path = os.path.join(IMAGE_FOLDER, item['concat_file'])
+    
     if os.path.exists(concat_path):
         st.image(concat_path, use_container_width=True)
     else:
-        st.warning(f"图片未找到: {item['concat_file']}")
+        st.warning(f"图片未找到: {concat_path}") # 这里也建议打印拼接后的路径，方便排查
         
     # --- 增加：在图片下方显示评价标准 ---
     st.info("""
